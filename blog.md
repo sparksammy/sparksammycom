@@ -38,4 +38,4 @@ I am currently sorting out plans to prevent future server shutdowns, to save ban
 
 ***New site plan/Halloween update.***
 
-There will be no more servers. There will only be ROFLCRAFT & Sparksammy Site. However, with bad news comes good news. I have a new store.
+There will be no more servers. There will only be ROFLCRAFT & Sparksammy Site. However, with bad news comes good news. I have a new store. Also added some "secret links" for you guys to crack open. Enjoy.
