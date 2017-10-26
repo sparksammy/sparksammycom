@@ -1,7 +1,7 @@
 **Blog**
 This is my new blog. I will put my thoughts here.
-History ---> https://github.com/sparksammy/sparksammy/commits/master/blog.md
-Styleized Version ---> https://github.com/sparksammy/sparksammy/blob/master/blog.md
+History ---> https://github.com/sparksammy/sparksammycom/commits/master/blog.md
+Styleized Version ---> https://github.com/sparksammy/sparksammycom/blob/master/blog.md
 ---
 ***8/15/17: New servers...***
 There are new servers as listed below to match the "Sparksammy Services" name. Enjoy!
@@ -31,7 +31,7 @@ Server is down due to evacuation away from flooded areas. Server should be back 
 
 ***8/30/17: Plans to prevent future shutdowns...***
 I am currently sorting out plans to prevent future server shutdowns, to save bandwidth, and in case I have to get Verizon/Sattelite/Other (similarly priced) internet in the near future. These plans include, but are not limited to:
-  - Merging Sparksammy Experimental into Sparksammy.tk
-  - Using a host for ROFLcraft Minecraft Server
-  - Making a store to sell my photography and MIDIs.
+  - Merging Sparksammy Experimental into Sparksammy.tk (EDIT: now called test site)
+  - Using a host for ROFLcraft Minecraft Server (Done, come visit. Will be added too homepage soon.)
+  - Making a store to sell my photography and MIDIs. (done. on homepage.)
   - Making sure everything is backed up to the "SparksammyArchive".
