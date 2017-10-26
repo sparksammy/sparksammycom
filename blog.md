@@ -35,3 +35,7 @@ I am currently sorting out plans to prevent future server shutdowns, to save ban
   - Using a host for ROFLcraft Minecraft Server (Done, come visit. Will be added too homepage soon.)
   - Making a store to sell my photography and MIDIs. (done. on homepage.)
   - Making sure everything is backed up to the "SparksammyArchive".
+
+***New site plan/Halloween update.***
+
+There will be no more servers. There will only be ROFLCRAFT & Sparksammy Site. However, with bad news comes good news. I have a new store.
