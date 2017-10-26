@@ -1,0 +1,53 @@
+/*This is Sparksammy's Super-Simple Dark Theme. */
+/*Inspired by stallman.org's "Dark Mode" and the old WKLORD.com before it became a lame template*/
+/* If you use this as a source PLEASE give credit. Thanks! */
+.logo {
+    filter: brightness(75%);
+}
+.clippy-content {
+    color: black;
+    background-color: tan;
+}
+* {
+     color: white;
+}
+span {
+     color: white;
+     background-color: #424242;
+}
+
+input {
+     color: gold;
+     background-color: #424242;
+}
+pre {
+     color: white;
+     background-color: black;
+}
+a {
+     color: yellow;
+}
+img {
+     filter: brightness(75%);
+}
+td {
+     color: white;
+}
+body {
+     color: white;
+     background-color: #424242;
+     font-size: 125%;
+}
+
+h1 {
+     color: yellow;
+}
+h2 {
+     color: yellow;
+}
+h3 {
+     color: tan;
+}
+h4 {
+     color: sandybrown;
+}

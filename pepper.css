@@ -1,0 +1,12 @@
+#pepper {
+    background-image: url(label.jpg);
+    background-attachment: fixed;
+    background-repeat: repeat-x;
+    width: 1px;
+}
+ 
+#x1 {background-position: 5px 30px;}
+#x2 {background-position: 0px 30px;}
+#x3 {background-position: -3px 30px;}
+#x4 {background-position: -6px 30px;}
+#x5 {background-position: -8px 30px;}

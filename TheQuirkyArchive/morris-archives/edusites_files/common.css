@@ -1,0 +1,306 @@
+body{
+  	font: normal 12px arial, helvetica, sans-serif;
+	text-align:center;
+	margin:0px;
+}
+#public_body{
+	position:relative;
+}
+#siteContents{
+	text-align:left;
+}
+form{
+	margin:0px;
+	border:0px;
+}
+p {
+	margin:0px 0px 10px 0px
+}
+td {
+	padding:0px;
+	font-size:12px;
+}
+td.centerMiddle{
+	text-align:center;
+	vertical-align:middle;
+}
+a img{
+	border:0px;
+	text-decoration:none;
+}
+.bold{
+	font-weight:bold;
+}
+.italic{
+	font-style:italic;
+}	
+
+.mb3{
+	margin-bottom:3px;
+}
+.mb5{
+	margin-bottom:5px;
+}
+.mb10{
+	margin-bottom:10px;
+}
+.mt5{
+	margin-top:5px;
+}
+.mt3{
+	margin-top:3px;
+}
+input.deleteMultiple{
+	position:relative; top:-5px;
+}
+.arrowBullet{
+	clear:left;
+	width:17px;
+	position:relative;
+	top:2px;
+	float:left;
+}
+.moduleLink{
+	float:left;
+	width:178px;
+}
+.moduleBottomLink{
+	text-align:right;
+	padding-top:5px;
+	clear:left;
+	font-size:10px;
+	font-weight:bold;
+}
+.subMenuBullet{
+	clear:left;
+	width:13px;
+	position:relative;
+	float:left;
+	font-weight:bold;
+}
+.subMenuTitle{
+	font-weight:bold;
+	float:left;
+	width:167px;
+}
+.text10{
+	font-size:10px;
+}
+select, input, textarea{
+	font: normal 11px arial, helvetica, sans-serif;
+}
+.tableCollapse{
+	border:0px;
+	border-spacing:0px;
+	border-collapse:collapse;
+}
+legend{
+	color:black;
+	font-weight:bold;
+}
+.float{
+	float:left;
+}
+.flR{
+	float:right;
+}
+.flR5{
+	float:right;
+	margin-left:5px;
+}
+.flR10{
+	float:right;
+	margin-left:10px;
+}
+.flR15{
+	float:right;
+	margin-left:15px;
+}
+.flL5{
+	float:left;
+	margin-right:5px;
+}
+.flL10{
+	float:left;
+	margin-right:10px;
+}
+.flL15{
+	float:left;
+	margin-right:15px;
+}
+.picFloatLeft{
+	float:left;
+	margin-right:5px;
+}
+.picFloatRight{
+	float:right;
+	margin-left:5px;
+}
+.picCenter{
+	width:100%;
+	text-align:center;
+	margin-bottom:5px;
+}
+.clear{
+	clear:both;
+}
+
+.alert{
+	color:red;
+	font-weight:bold;
+}
+/* User Notifications */
+.alert_base { padding: 5px 10px 5px 35px; margin: auto; margin-bottom:5px; font-weight: bold; font-size: 14px; }
+.alert_bad { color: #c00; background: #fcc url('https://files.gabbart.com/lib/common/flash_bad.png') no-repeat 10px center; border: 1px solid #c00; }
+.alert_good { color: #090; background: #cfc url('https://files.gabbart.com/lib/common/flash_good.png') no-repeat 10px center; border: 1px solid #090; }
+.alert_notice { color: #e36a2f; background: #ffc url('https://files.gabbart.com/lib/common/icon_alert.gif') no-repeat 10px center; border: 1px solid #e36a2f; }
+.alert_info { color: #3B6AA0; background: #7EC0EE url('https://files.gabbart.com/lib/common/icon_alert.gif') no-repeat 10px center; border: 1px solid #3B6AA0; }
+
+ul{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+.photo{
+	padding:1px;
+	border:1px solid #CFCFCF;
+}
+.adminNav a:link, .adminNav a:active, .adminNav a:visited{
+	color:black;
+	text-decoration:none;
+}
+.adminNav a:hover{
+	color:black;
+	text-decoration:underline;
+}
+div.searchPrint{
+	float:right;
+	width:150px;
+}
+div.searchBar{
+	float:right;
+	width:125px;
+	height:21px;
+	position:relative;
+	top:2px;
+	margin-left:3px;
+	background-image: url('https://files.gabbart.com/lib/common/searchinput.png');
+	background-repeat: no-repeat;
+}
+div.searchBar input{
+	border:0px;
+	background-color:white;
+	position:relative;
+	left:21px;
+	top:3px;
+	width:80px;
+	font-size: 12px;
+	height:14px;
+	-webkit-appearance: none;
+	-webkit-border-radius:0px;
+	outline:none;
+}
+div.printView{
+	float:right;
+	width:20px;
+	position:relative;
+	top:3px;
+}
+.celPad{
+	padding:3px;
+}
+.middle{
+	vertical-align:middle;
+}
+ul.events{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+ul.events li{
+	margin:0 0 0 -15px;
+}
+.center{
+	text-align:center;
+}
+.alignRight{
+	text-align:right;
+}
+.alignLeft{
+	text-align:left;
+}
+.adminNav .floatImg{
+	float:left;
+	width:20px;
+	margin:2px 0px;
+}
+.adminNav .floatLbl{
+	float:left;
+	width:115px;
+	position:relative;
+	top:4px;
+}
+ul.teachNav li{
+	margin:0 0 0 -15px;
+	list-style-image:url('https://files.gabbart.com/lib/common/page_white_text.png');
+}
+ul.teachNav li.home{
+	margin:0 0 0 -15px;
+	list-style-image:url('https://files.gabbart.com/lib/common/home_icon.png');
+}
+.qlTitle1{
+	font-weight:bold;
+	font-size:14px;
+}
+.qlTitle2{
+	font-weight:bold;
+	font-size:16px;
+}
+.qlTitle3{
+	font-weight:bold;
+	font-size:18px;
+}
+.qlLinks1 li{
+	font-size:12px;
+}
+.qlLinks2 li{
+	font-size:14px;
+}
+.qlLinks3 li{
+	font-size:16px;
+}
+
+.clear { clear: both; }
+textarea { resize: none; }
+
+#linkBox, #uploadFiles{
+    position:fixed;
+    left:50%;
+    margin-left:-250px;
+    top:-400px;
+    width:500px;
+    height:400px;
+    background-color:white;
+    border:1px solid #646464;
+    padding:5px;
+    display:none;
+    text-align:left;
+    z-index:2000;
+    overflow: auto;
+}
+
+#linkBox .moduleHeader{
+    width:496px;
+    text-align: left;
+}
+
+.pillbox ul{list-style:none;margin:0;padding:0;}
+.pillbox ul li{float:left;display:block;list-style:none;}
+.pillbox ul li a{font-weight:normal;font-size:12px;padding:3px 10px;color:#404040;background-color:#ededed;border:1px solid #8e8e8e;text-decoration: none;}
+.pillbox ul li a img{position:relative; top:1px;}
+.pillbox ul li a:hover{background-color: white;}
+.pillbox ul li.active a{font-weight:bold;background-color: white;}
+.pillbox ul li a.button{border-left-width:0;border-radius:0;-moz-border-radius:0;-webkit-border-radius:0;}
+.pillbox ul li.first a.button{border-left-width:1px;border-radius:8px 0 0 8px;}
+.pillbox ul li.last a.button{border-radius:0 8px 8px 0;}
+.pillbox ul li a.buttonWhole{border-width:1px;border-radius:8px 8px 8px 8px;}
+
+.cke_dialog_footer_buttons #cke_80_label {display:none;}

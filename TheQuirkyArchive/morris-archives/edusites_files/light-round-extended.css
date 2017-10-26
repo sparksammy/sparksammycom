@@ -1,0 +1,322 @@
+/*
+	Skin Name: Light Round Ext.
+	Class: light-round-extended
+	Description: Light Round Extended skin for Slider PRO WordPress plugin. This is used for the HTML example
+	Author: David
+*/
+
+
+/* MAIN SLIDE */
+
+.light-round-extended .slide-wrapper
+{
+	
+}
+
+/* END OF MAIN SLIDE */
+
+
+/* SLIDE PRELOADER */
+
+.light-round-extended .preloader
+{
+	background:url(images/preloader2.gif) no-repeat;
+	width:62px;
+	height:14px;
+}
+
+/* END OF SLIDE PRELOADER */
+
+
+/* SLIDE ARROWS */
+
+.light-round-extended .navigation-arrows a
+{
+	background:url(images/arrows_small.png) no-repeat;
+	width:40px;
+	height:40px;
+	top:54%;
+	margin-top:-33px;
+}
+
+
+.light-round-extended .navigation-arrows a.previous
+{
+	left: 10px;
+}
+
+
+.light-round-extended .navigation-arrows a.next
+{
+	right: 10px;
+	background-position: -40px 0px;
+}
+
+/* SLIDE ARROWS */
+
+
+/* SLIDESHOW CONTROLS */
+
+.light-round-extended .slideshow-controls
+{
+	background:url(images/playpause.png) no-repeat;
+	width:66px;
+	height:66px;
+	top:50%;
+	left:50%;
+	margin-top:-33px;
+	margin-left:-33px;
+}
+
+
+.light-round-extended .slideshow-controls.pause
+{
+	background-position: 100px 100px;
+	display:none;
+}
+
+
+.light-round-extended .slideshow-controls.play
+{
+	background-position: -66px 0px;
+}
+
+
+/*END OF SLIDESHOW CONTROLS */
+
+
+/* TIMER ANIMATION */
+
+.light-round-extended .timer-animation
+{
+	top:20px;
+	right:20px;
+}
+
+/* END OF TIMER ANIMATION */
+
+
+/* SLIDE CAPTION */
+
+.light-round-extended .caption .background
+{
+	background-color:#000;
+	width:100%;
+	height:100%;
+}
+
+
+.light-round-extended .caption .content
+{	
+	color:#FFF;
+	margin:0px;
+	padding:8px;
+	font-size:12px;
+	line-height:14px;
+}
+
+/* END OF SLIDE CAPTION */
+
+
+/* NAVIGATION BUTTONS/BULLETS */
+
+/* main container of the navigation buttons */
+.light-round-extended .navigation-buttons
+{
+	bottom:-50px;
+}
+
+
+/* 
+ left, right and middle of the main container 
+ for this skin, these elements are not styled by default
+ feel free to add your own styling
+*/
+.light-round-extended .navigation-buttons .left, .light-round-extended .navigation-buttons .right {}
+
+
+.light-round-extended .navigation-buttons .left {}
+
+
+.light-round-extended .navigation-buttons .middle {}
+
+
+.light-round-extended .navigation-buttons .right {}
+
+
+/* this contains the buttons */
+.light-round-extended .navigation-buttons .buttons {}
+
+
+/* this is a button */
+.light-round-extended .navigation-buttons .buttons a
+{
+	background:url(images/buttons.png) no-repeat;
+	background-position:0px 0px;
+	cursor:pointer;
+	width:14px;
+	height:14px;
+	margin:0px 2px;
+	text-align:center;
+	position: relative;
+	top:-145px;
+}
+
+
+.light-round-extended .navigation-buttons .buttons a.over
+{
+	background-position:-14px 0px; 
+}
+
+
+.light-round-extended .navigation-buttons .buttons a.select
+{
+	background-position:-28px 0px; 
+}
+
+
+/* this is used to style the numbers from within the buttons, when they are used */
+.light-round-extended .navigation-buttons .buttons a .number
+{
+	margin-top:2px;
+	font-size:8px;
+	line-height:10px;
+	font-weight:bold;
+	color:#888;
+}
+
+
+.light-round-extended .navigation-buttons .buttons a.over .number
+{
+	color:#666;
+}
+
+
+.light-round-extended .navigation-buttons .buttons a.select .number
+{
+	color:#666;
+}
+
+
+/* 
+ applied to the thumbnail when the thumbnail is used only as a tooltip
+ sets the distance between the button and the thumbnail
+*/
+.light-round-extended .navigation-buttons .buttons .thumbnail
+{
+	margin-bottom:10px;
+}
+
+/* END OF NAVIGATION BUTTONS/BULLETS */
+
+
+
+/* TOOLTIP */
+
+.light-round-extended .tooltip
+{
+	background-color:#DDD;
+	margin-bottom:20px;
+	border:#EEE solid 4px;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+}
+
+
+.light-round-extended .tooltip .content
+{
+	color:#999;
+	padding:10px;
+	margin:0px;
+}
+
+/* END OF TOOLTIP */
+
+
+/* CSS FOR THE INLINE HTML */
+
+
+.light-round-extended .html .background
+{
+	width:100%;
+	height:100%;
+	background:#DDD;
+}
+
+
+.light-round-extended .html .content-box
+{
+	width:180px;
+	margin:35px 30px;
+	padding:10px;
+	background:#888;
+	color:#CCC;
+	font-size:13px;
+	line-height:20px;
+	border:4px solid #EEE;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+
+
+.light-round-extended .html .content-box p
+{
+	font-size:13px;
+	line-height:20px;
+}
+
+
+.light-round-extended .html p
+{
+	color:#CCCCCC;
+}
+
+
+.light-round-extended .html .content-box .title 
+{
+	font-weight:bold;
+	font-style:italic;
+	color:#EEEEEE;
+}
+
+
+.light-round-extended .html .content-box .slide-button
+{
+	width:65px;	
+	color:#666;
+	padding:2px;
+	margin-top:10px;
+	text-decoration:none;
+	background-color:#EEEEEE;
+	border:4px solid #FFFFFF;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+
+
+.light-round-extended .html .images-box
+{
+	width:540px;
+	padding:30px 15px;
+}
+
+
+.light-round-extended .html .image-box
+{
+	background:url(images/image_shadow.png) no-repeat 9px 158px;
+	width:260px;
+	height:170px;
+	float:left;
+}
+
+
+.light-round-extended .html .image-box img
+{
+	margin:10px;
+	border:4px solid #FFF;
+}
+
+/*END OF CSS FOR THE INLINE HTML */
