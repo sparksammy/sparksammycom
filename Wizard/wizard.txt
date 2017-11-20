@@ -1,0 +1,5 @@
+name="SMC Wizard"
+url="https://www.dropbox.com/s/8tc1t7qxza1ckzf/SMCBuild.zip?dl=1"
+img="http://sparksammy.com/Wizard/icon.png"
+fanart="http://sparksammy.com/Wizard/fanart.jpg"
+description="Best Kodi build"
