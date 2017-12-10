@@ -1,0 +1,36 @@
+<head><title>SantaTracker Servo</title>
+  <script language="JavaScript">
+    loaded = false;
+    function dragSplit(dragEvent){
+      if (loaded) eval("document.getElementById('leftDiv').width=Math.max(dragEvent.x-3,1)");
+    }
+  </script>
+<script>
+function refreshAt(hours, minutes, seconds) {
+    var now = new Date();
+    var then = new Date();
+
+    if(now.getHours() > hours ||
+       (now.getHours() == hours && now.getMinutes() > minutes) ||
+        now.getHours() == hours && now.getMinutes() == minutes && now.getSeconds() >= seconds) {
+        then.setDate(now.getDate() + 1);
+    }
+    then.setHours(hours);
+    then.setMinutes(minutes);
+    then.setSeconds(seconds);
+
+    var timeout = (then.getTime() - now.getTime());
+    setTimeout(function() { window.location.reload(true); }, timeout);
+}
+</script>
+<script>refreshAt(4,30,0);</script>
+</head>
+<body>
+
+    <table cellpadding=0 cellspacing=0 border=0 height=100% width=100%>
+        <tr><td id="leftDiv" width=50%><IFRAME align="left" SRC="https://santatracker.google.com/" width=100% height=100% NAME="goog" ID="goog" onmouseover="style.cursor='w-resize';"><img src="black.png" width="4" height="100%" onDrag="dragSplit(event)"></iframe></td>
+
+<td id="leftDiv" width=50%><IFRAME align="left" SRC="https://www.noradsanta.org/#section-village" width=100% height=100% NAME="norad" ID="norad" onmouseover="style.cursor='w-resize';"><img src="black.png" width="25%" height="100%" onDrag="dragSplit(event)"></iframe></td>
+    </table>
+</body>
+
