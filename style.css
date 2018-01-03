@@ -18,8 +18,9 @@ input {
      background-color: #424242;
 }
 pre {
-     color: white;
-     background-color: black;
+     color: #3d3d3d;
+     background-color: #f9f9f9;
+	 text-align: center;
 }
 a {
      color: grey;
