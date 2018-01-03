@@ -8,11 +8,8 @@
     color: black;
     background-color: tan;
 }
-a {
-     color: yellow;
-}
 span {
-     color: white;
+     color: grey;
      background-color: #424242;
 }
 
@@ -25,21 +22,21 @@ pre {
      background-color: black;
 }
 a {
-     color: yellow;
+     color: grey;
 }
 img {
      filter: brightness(75%);
 }
 td {
-     color: white;
+     color: black;
 }
 body {
-     color: yellow;
+     color: tan;
      background-color: #424242;
      font-size: 125%;
 }
 p {
-color: white;
+color: #CCCCCC;
 }
 h1 {
      color: yellow;
