@@ -1,7 +1,5 @@
 **Blog**
 This is my new blog. I will put my thoughts here.
-History ---> https://github.com/sparksammy/sparksammycom/commits/master/blog.md
-Styleized Version ---> https://github.com/sparksammy/sparksammycom/blob/master/blog.md
 ---
 ***8/15/17: New servers...***
 There are new servers as listed below to match the "Sparksammy Services" name. Enjoy!
@@ -39,3 +37,7 @@ I am currently sorting out plans to prevent future server shutdowns, to save ban
 ***New site plan/Halloween update.***
 
 There will be no more servers. There will only be ROFLCRAFT & Sparksammy Site. However, with bad news comes good news. I have a new store. Also added some "secret links" for you guys to crack open. Enjoy.
+
+
+***2/15/18: New site design***
+I am currently sorting out plans to make a new, more simple website design.
