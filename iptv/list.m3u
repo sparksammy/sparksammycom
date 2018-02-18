@@ -109,9 +109,6 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0
 #EXTINF:-1,CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1,Channel 7
-http://radio.7chan.org:8000/CH7
-
 #EXTINF:-1,Classic Arts Showcase
 http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
 
@@ -414,9 +411,6 @@ https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 
 #EXTINF:-1,Assemblee Nationale du Quebec
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-
-#EXTINF:-1,Canadian Arab TV
-http://192.226.228.32:8080/hls/catv/index.m3u8
 
 #EXTINF:-1,Canal Savoir
 http://stream.canalsavoir.tv/livestream/stream.m3u8
@@ -951,9 +945,6 @@ http://wow01.105.net:1935/live/105Test1/livestream.m3u8
 
 #EXTINF:-1,Radio Capital TiVu
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-
-#EXTINF:-1,Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 
 #EXTINF:-1,Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
@@ -1599,9 +1590,6 @@ http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 
 #EXTINF:-1,OchoTV Guadalajara
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
-
-#EXTINF:-1,Puebla TV
-http://189.203.247.136/live/pueblatv/playlist.m3u8
 
 #EXTINF:-1,RCG 1 Saltillo
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
@@ -2349,21 +2337,6 @@ http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
 
 #EXTINF:-1,Rrokum TV
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-
-#EXTINF:-1,RTK 1 Kosovo
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-
-#EXTINF:-1,RTK 1 Kosovo
-http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
-
-#EXTINF:-1,RTK 2 Kosovo
-http://stream2.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
-
-#EXTINF:-1,RTK 3 Kosovo
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-
-#EXTINF:-1,RTK 4 Kosovo
-http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8
 
 #EXTINF:-1,RTV Zik (Denmark)
 http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
@@ -3190,9 +3163,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1,TRT Haber
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 
-#EXTINF:-1,TRT Muzik
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-
 #EXTINF:-1,TRT Okul
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 
@@ -3463,9 +3433,6 @@ http://users.atw.hu/szbszig/palestine.mp3
 #EXTINF:-1,Al Aqsa
 http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
 
-#EXTINF:-1,Al Ghadeer
-http://149.255.37.212:1935/live/alghadeer/chunklist_w1787991045.m3u8
-
 #EXTINF:-1,Al Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 
@@ -3607,14 +3574,8 @@ https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
 #EXTINF:-1,Oman TV
 http://38.96.148.30:1935/live/omantv1//playlist.m3u8
 
-#EXTINF:-1,Oman Mubasher
-http://38.96.148.30:1935/live/omantv3/playlist.m3u8
-
 #EXTINF:-1,Oman Documentary
 http://38.96.148.30:1935/live/omantv4/playlist.m3u8
-
-#EXTINF:-1,Oman Sports
-http://38.96.148.30:1935/live/omantv2//playlist.m3u8
 
 #EXTINF:-1,Yemen TV
 http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8
@@ -3883,9 +3844,6 @@ http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 #EXTINF:-1,YTN
 http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
 
-#EXTINF:-1,24/7 Animated Movies
-http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
-
 #EXTINF:-1,24/7 Blockbuster Movies
 http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
 
@@ -3895,14 +3853,8 @@ http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 #EXTINF:-1,CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8
 
-#EXTINF:-1,China Business Network
-http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
-
 #EXTINF:-1,China Business Network*
 http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_3.m3u8
-
-#EXTINF:-1,Oriental Finance Pudong
-http://w1.livecache.yicai.com/hls/live/dftv_hd/live.m3u8
 
 #EXTINF:-1,SinoVision (US)
 http://ec.sinovision.net/video/ts/lv.m3u8
@@ -4288,21 +4240,6 @@ http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/167.ts
 #EXTINF:-1,TCM | HD
 http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/169.ts
 
-#EXTINF:-1,ANIMAL PLANET | SD
-http://gigaiptv.pro:8000/live/D2re9gN1ZB/IzxCgeyjJm/2823.ts
-
-#EXTINF:-1,ANIMAL PLANET | SD
-http://gigaiptv.pro:8000/live/D2re9gN1ZB/IzxCgeyjJm/4298.ts
-
-#EXTINF:-1,BBC 2 | SD
-http://gigaiptv.pro:8000/live/D2re9gN1ZB/IzxCgeyjJm/2827.ts
-
-#EXTINF:-1,BBC 4 | SD
-http://gigaiptv.pro:8000/live/D2re9gN1ZB/IzxCgeyjJm/2828.ts
-
-#EXTINF:-1,BBC NEWS | SD
-http://gigaiptv.pro:8000/live/D2re9gN1ZB/IzxCgeyjJm/2829.ts
-
 #EXTINF:-1,BLOOMBERG TV | SD
 http://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 
@@ -4329,9 +4266,6 @@ http://gigaiptv.pro:8000/live/D2re9gN1ZB/IzxCgeyjJm/4312.ts
 
 #EXTINF:-1,DISCOVERY TURBO | SD
 http://gigaiptv.pro:8000/live/D2re9gN1ZB/IzxCgeyjJm/4313.ts
-
-#EXTINF:-1,DMAX | SD
-http://gigaiptv.pro:8000/live/D2re9gN1ZB/IzxCgeyjJm/4314.ts
 
 #EXTINF:-1,EIR SPORT 2 | SD
 http://gigaiptv.pro:8000/live/D2re9gN1ZB/IzxCgeyjJm/4365.ts
@@ -4380,9 +4314,6 @@ http://mnenvyiptv.org:5050/live/bert/bert/57318.ts
 
 #EXTINF:-1,RACING | HD
 http://mnenvyiptv.org:5050/live/tonic/tonic/57318.ts
-
-#EXTINF:-1,RACING | HD
-http://gigaiptv.pro:8000/live/D2re9gN1ZB/IzxCgeyjJm/4375.ts
 
 #EXTINF:-1,RACING | SD
 http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/258.ts
@@ -4443,3 +4374,1677 @@ http://p3.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/294.ts
 
 #EXTINF:-1,VIVA | SD
 http://mnenvyiptv.org:5050/live/bert/bert/96610.ts
+
+#EXTINF:-1,US SPORTSNET 360 | HD http://clientportalpro.com:2500/live/roy/12345/14961.ts
+http://clientportalpro.com:2500/live/roy/12345/14961.ts
+
+#EXTINF:-1,029 | SD http://93.190.142.128:80/live/user2/user2/28090.ts
+http://93.190.142.128:80/live/user2/user2/28090.ts
+
+#EXTINF:-1,281 | SD http://93.190.142.128:80/live/user2/user2/27871.ts
+http://93.190.142.128:80/live/user2/user2/27871.ts
+
+#EXTINF:-1,282 | SD http://93.190.142.128:80/live/user2/user2/27870.ts
+http://93.190.142.128:80/live/user2/user2/27870.ts
+
+#EXTINF:-1,284 | SD http://93.190.142.128:80/live/user2/user2/27868.ts
+http://93.190.142.128:80/live/user2/user2/27868.ts
+
+#EXTINF:-1,285 | SD http://93.190.142.128:80/live/user2/user2/27867.ts
+http://93.190.142.128:80/live/user2/user2/27867.ts
+
+#EXTINF:-1,286 | SD http://93.190.142.128:80/live/user2/user2/27866.ts
+http://93.190.142.128:80/live/user2/user2/27866.ts
+
+#EXTINF:-1,287 | SD http://93.190.142.128:80/live/user2/user2/27865.ts
+http://93.190.142.128:80/live/user2/user2/27865.ts
+
+#EXTINF:-1,288 | SD http://93.190.142.128:80/live/user2/user2/27864.ts
+http://93.190.142.128:80/live/user2/user2/27864.ts
+
+#EXTINF:-1,289 | SD http://93.190.142.128:80/live/user2/user2/27863.ts
+http://93.190.142.128:80/live/user2/user2/27863.ts
+
+#EXTINF:-1,290 | SD http://93.190.142.128:80/live/user2/user2/27862.ts
+http://93.190.142.128:80/live/user2/user2/27862.ts
+
+#EXTINF:-1,291 | SD http://93.190.142.128:80/live/user2/user2/27861.ts
+http://93.190.142.128:80/live/user2/user2/27861.ts
+
+#EXTINF:-1,292 | HD http://93.190.142.128:80/live/user2/user2/27860.ts
+http://93.190.142.128:80/live/user2/user2/27860.ts
+
+#EXTINF:-1,295 | HD http://93.190.142.128:80/live/user2/user2/27857.ts
+http://93.190.142.128:80/live/user2/user2/27857.ts
+
+#EXTINF:-1,296 | HD http://93.190.142.128:80/live/user2/user2/27856.ts
+http://93.190.142.128:80/live/user2/user2/27856.ts
+
+#EXTINF:-1,297 | HD http://93.190.142.128:80/live/user2/user2/27855.ts
+http://93.190.142.128:80/live/user2/user2/27855.ts
+
+#EXTINF:-1,298 | HD http://93.190.142.128:80/live/user2/user2/27854.ts
+http://93.190.142.128:80/live/user2/user2/27854.ts
+
+#EXTINF:-1,299 | HD http://93.190.142.128:80/live/user2/user2/27853.ts
+http://93.190.142.128:80/live/user2/user2/27853.ts
+
+#EXTINF:-1,300 | HD http://93.190.142.128:80/live/user2/user2/27852.ts
+http://93.190.142.128:80/live/user2/user2/27852.ts
+
+#EXTINF:-1,301 | HD http://93.190.142.128:80/live/user2/user2/27851.ts
+http://93.190.142.128:80/live/user2/user2/27851.ts
+
+#EXTINF:-1,302 | HD http://93.190.142.128:80/live/user2/user2/27850.ts
+http://93.190.142.128:80/live/user2/user2/27850.ts
+
+#EXTINF:-1,303 | HD http://93.190.142.128:80/live/user2/user2/27849.ts
+http://93.190.142.128:80/live/user2/user2/27849.ts
+
+#EXTINF:-1,304 | SD http://93.190.142.128:80/live/user2/user2/27848.ts
+http://93.190.142.128:80/live/user2/user2/27848.ts
+
+#EXTINF:-1,305 | HD http://93.190.142.128:80/live/user2/user2/27847.ts
+http://93.190.142.128:80/live/user2/user2/27847.ts
+
+#EXTINF:-1,306 | SD http://93.190.142.128:80/live/user2/user2/28144.ts
+http://93.190.142.128:80/live/user2/user2/28144.ts
+
+#EXTINF:-1,307 | SD http://93.190.142.128:80/live/user2/user2/28143.ts
+http://93.190.142.128:80/live/user2/user2/28143.ts
+
+#EXTINF:-1,308 | SD http://93.190.142.128:80/live/user2/user2/28142.ts
+http://93.190.142.128:80/live/user2/user2/28142.ts
+
+#EXTINF:-1,309 | SD http://93.190.142.128:80/live/user2/user2/28141.ts
+http://93.190.142.128:80/live/user2/user2/28141.ts
+
+#EXTINF:-1,310 | SD http://93.190.142.128:80/live/user2/user2/28140.ts
+http://93.190.142.128:80/live/user2/user2/28140.ts
+
+#EXTINF:-1,311 | SD http://93.190.142.128:80/live/user2/user2/28139.ts
+http://93.190.142.128:80/live/user2/user2/28139.ts
+
+#EXTINF:-1,313 | SD http://93.190.142.128:80/live/user2/user2/28137.ts
+http://93.190.142.128:80/live/user2/user2/28137.ts
+
+#EXTINF:-1,314 | SD http://93.190.142.128:80/live/user2/user2/28136.ts
+http://93.190.142.128:80/live/user2/user2/28136.ts
+
+#EXTINF:-1,315 | SD http://93.190.142.128:80/live/user2/user2/28135.ts
+http://93.190.142.128:80/live/user2/user2/28135.ts
+
+#EXTINF:-1,316 | SD http://93.190.142.128:80/live/user2/user2/28134.ts
+http://93.190.142.128:80/live/user2/user2/28134.ts
+
+#EXTINF:-1,317 | SD http://93.190.142.128:80/live/user2/user2/28133.ts
+http://93.190.142.128:80/live/user2/user2/28133.ts
+
+#EXTINF:-1,318 | SD http://93.190.142.128:80/live/user2/user2/28132.ts
+http://93.190.142.128:80/live/user2/user2/28132.ts
+
+#EXTINF:-1,320 | SD http://93.190.142.128:80/live/user2/user2/28130.ts
+http://93.190.142.128:80/live/user2/user2/28130.ts
+
+#EXTINF:-1,321 | SD http://93.190.142.128:80/live/user2/user2/28129.ts
+http://93.190.142.128:80/live/user2/user2/28129.ts
+
+#EXTINF:-1,323 | HD http://93.190.142.128:80/live/user2/user2/28165.ts
+http://93.190.142.128:80/live/user2/user2/28165.ts
+
+#EXTINF:-1,325 | SD http://93.190.142.128:80/live/user2/user2/28163.ts
+http://93.190.142.128:80/live/user2/user2/28163.ts
+
+#EXTINF:-1,326 | SD http://93.190.142.128:80/live/user2/user2/28162.ts
+http://93.190.142.128:80/live/user2/user2/28162.ts
+
+#EXTINF:-1,328 | SD http://93.190.142.128:80/live/user2/user2/28160.ts
+http://93.190.142.128:80/live/user2/user2/28160.ts
+
+#EXTINF:-1,329 | HD http://93.190.142.128:80/live/user2/user2/28159.ts
+http://93.190.142.128:80/live/user2/user2/28159.ts
+
+#EXTINF:-1,330 | HD http://93.190.142.128:80/live/user2/user2/28158.ts
+http://93.190.142.128:80/live/user2/user2/28158.ts
+
+#EXTINF:-1,333 | SD http://93.190.142.128:80/live/user2/user2/28155.ts
+http://93.190.142.128:80/live/user2/user2/28155.ts
+
+#EXTINF:-1,334 | SD http://93.190.142.128:80/live/user2/user2/28154.ts
+http://93.190.142.128:80/live/user2/user2/28154.ts
+
+#EXTINF:-1,335 | SD http://93.190.142.128:80/live/user2/user2/28153.ts
+http://93.190.142.128:80/live/user2/user2/28153.ts
+
+#EXTINF:-1,336 | SD http://93.190.142.128:80/live/user2/user2/28152.ts
+http://93.190.142.128:80/live/user2/user2/28152.ts
+
+#EXTINF:-1,337 | SD http://93.190.142.128:80/live/user2/user2/28151.ts
+http://93.190.142.128:80/live/user2/user2/28151.ts
+
+#EXTINF:-1,338 | SD http://93.190.142.128:80/live/user2/user2/28150.ts
+http://93.190.142.128:80/live/user2/user2/28150.ts
+
+#EXTINF:-1,340 | SD http://93.190.142.128:80/live/user2/user2/28148.ts
+http://93.190.142.128:80/live/user2/user2/28148.ts
+
+#EXTINF:-1,342 | SD http://93.190.142.128:80/live/user2/user2/28146.ts
+http://93.190.142.128:80/live/user2/user2/28146.ts
+
+#EXTINF:-1,343 | HD http://93.190.142.128:80/live/user2/user2/28145.ts
+http://93.190.142.128:80/live/user2/user2/28145.ts
+
+#EXTINF:-1,352 | SD http://93.190.142.128:80/live/user2/user2/28199.ts
+http://93.190.142.128:80/live/user2/user2/28199.ts
+
+#EXTINF:-1,353 | SD http://93.190.142.128:80/live/user2/user2/28198.ts
+http://93.190.142.128:80/live/user2/user2/28198.ts
+
+#EXTINF:-1,354 | SD http://93.190.142.128:80/live/user2/user2/28197.ts
+http://93.190.142.128:80/live/user2/user2/28197.ts
+
+#EXTINF:-1,356 | SD http://93.190.142.128:80/live/user2/user2/28196.ts
+http://93.190.142.128:80/live/user2/user2/28196.ts
+
+#EXTINF:-1,357 | SD http://93.190.142.128:80/live/user2/user2/28195.ts
+http://93.190.142.128:80/live/user2/user2/28195.ts
+
+#EXTINF:-1,358 | SD http://93.190.142.128:80/live/user2/user2/28194.ts
+http://93.190.142.128:80/live/user2/user2/28194.ts
+
+#EXTINF:-1,360 | SD http://93.190.142.128:80/live/user2/user2/28192.ts
+http://93.190.142.128:80/live/user2/user2/28192.ts
+
+#EXTINF:-1,362 | SD http://93.190.142.128:80/live/user2/user2/28190.ts
+http://93.190.142.128:80/live/user2/user2/28190.ts
+
+#EXTINF:-1,363 | SD http://93.190.142.128:80/live/user2/user2/28189.ts
+http://93.190.142.128:80/live/user2/user2/28189.ts
+
+#EXTINF:-1,364 | SD http://93.190.142.128:80/live/user2/user2/28188.ts
+http://93.190.142.128:80/live/user2/user2/28188.ts
+
+#EXTINF:-1,365 | SD http://93.190.142.128:80/live/user2/user2/28187.ts
+http://93.190.142.128:80/live/user2/user2/28187.ts
+
+#EXTINF:-1,366 | SD http://93.190.142.128:80/live/user2/user2/28186.ts
+http://93.190.142.128:80/live/user2/user2/28186.ts
+
+#EXTINF:-1,367 | SD http://93.190.142.128:80/live/user2/user2/28185.ts
+http://93.190.142.128:80/live/user2/user2/28185.ts
+
+#EXTINF:-1,370 | SD http://93.190.142.128:80/live/user2/user2/28182.ts
+http://93.190.142.128:80/live/user2/user2/28182.ts
+
+#EXTINF:-1,371 | SD http://93.190.142.128:80/live/user2/user2/28181.ts
+http://93.190.142.128:80/live/user2/user2/28181.ts
+
+#EXTINF:-1,372 | SD http://93.190.142.128:80/live/user2/user2/28180.ts
+http://93.190.142.128:80/live/user2/user2/28180.ts
+
+#EXTINF:-1,373 | SD http://93.190.142.128:80/live/user2/user2/28179.ts
+http://93.190.142.128:80/live/user2/user2/28179.ts
+
+#EXTINF:-1,374 | SD http://93.190.142.128:80/live/user2/user2/28178.ts
+http://93.190.142.128:80/live/user2/user2/28178.ts
+
+#EXTINF:-1,375 | SD http://93.190.142.128:80/live/user2/user2/28177.ts
+http://93.190.142.128:80/live/user2/user2/28177.ts
+
+#EXTINF:-1,376 | SD http://93.190.142.128:80/live/user2/user2/28176.ts
+http://93.190.142.128:80/live/user2/user2/28176.ts
+
+#EXTINF:-1,378 | SD http://93.190.142.128:80/live/user2/user2/28174.ts
+http://93.190.142.128:80/live/user2/user2/28174.ts
+
+#EXTINF:-1,379 | SD http://93.190.142.128:80/live/user2/user2/28173.ts
+http://93.190.142.128:80/live/user2/user2/28173.ts
+
+#EXTINF:-1,380 | HD http://93.190.142.128:80/live/user2/user2/28200.ts
+http://93.190.142.128:80/live/user2/user2/28200.ts
+
+#EXTINF:-1,A&E | HD http://clientportalpro.com:2500/live/roy/12345/14985.ts
+http://clientportalpro.com:2500/live/roy/12345/14985.ts
+
+#EXTINF:-1,A&E TV | HD http://clientportalpro.com:2500/live/roy/12345/14984.ts
+http://clientportalpro.com:2500/live/roy/12345/14984.ts
+
+#EXTINF:-1,ABC | HD http://clientportalpro.com:2500/live/roy/12345/14982.ts
+http://clientportalpro.com:2500/live/roy/12345/14982.ts
+
+#EXTINF:-1,ABC | SD http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/934.ts
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/934.ts
+
+#EXTINF:-1,ABC FHD | SD http://clientportalpro.com:2500/live/roy/12345/14983.ts
+http://clientportalpro.com:2500/live/roy/12345/14983.ts
+
+#EXTINF:-1,ABC NEWS | HD http://clientportalpro.com:2500/live/roy/12345/14981.ts
+http://clientportalpro.com:2500/live/roy/12345/14981.ts
+
+#EXTINF:-1,ABC NEWS | SD http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1997.ts
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1997.ts
+
+#EXTINF:-1,AFN SPECTRUM | HD http://clientportalpro.com:2500/live/roy/12345/14980.ts
+http://clientportalpro.com:2500/live/roy/12345/14980.ts
+
+#EXTINF:-1,AFN SPORT 1 | SD http://clientportalpro.com:2500/live/roy/12345/14979.ts
+http://clientportalpro.com:2500/live/roy/12345/14979.ts
+
+#EXTINF:-1,AFN SPORT 2 | SD http://clientportalpro.com:2500/live/roy/12345/14978.ts
+http://clientportalpro.com:2500/live/roy/12345/14978.ts
+
+#EXTINF:-1,AMAZING DISCOVERIES | HD http://clientportalpro.com:2500/live/roy/12345/14977.ts
+http://clientportalpro.com:2500/live/roy/12345/14977.ts
+
+#EXTINF:-1,AMC | HD http://clientportalpro.com:2500/live/roy/12345/14975.ts
+http://clientportalpro.com:2500/live/roy/12345/14975.ts
+
+#EXTINF:-1,AMC | SD http://clientportalpro.com:2500/live/roy/12345/14976.ts
+http://clientportalpro.com:2500/live/roy/12345/14976.ts
+
+#EXTINF:-1,ANIMAL PLANET | HD http://clientportalpro.com:2500/live/roy/12345/14973.ts
+http://clientportalpro.com:2500/live/roy/12345/14973.ts
+
+#EXTINF:-1,ANIMAL PLANET | SD http://clientportalpro.com:2500/live/roy/12345/14974.ts
+http://clientportalpro.com:2500/live/roy/12345/14974.ts
+
+#EXTINF:-1,BEINSPORTS | HD http://clientportalpro.com:2500/live/roy/12345/14972.ts
+http://clientportalpro.com:2500/live/roy/12345/14972.ts
+
+#EXTINF:-1,BET | HD http://clientportalpro.com:2500/live/roy/12345/14971.ts
+http://clientportalpro.com:2500/live/roy/12345/14971.ts
+
+#EXTINF:-1,BLOOMBERG EUROPE | SD http://clientportalpro.com:2500/live/roy/12345/14970.ts
+http://clientportalpro.com:2500/live/roy/12345/14970.ts
+
+#EXTINF:-1,BLOOMBERG TV | HD http://clientportalpro.com:2500/live/roy/12345/14969.ts
+http://clientportalpro.com:2500/live/roy/12345/14969.ts
+
+#EXTINF:-1,BLOOMBERG TV | SD http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1996.ts
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1996.ts
+
+#EXTINF:-1,BOOMERANG | SD http://clientportalpro.com:2500/live/roy/12345/14968.ts
+http://clientportalpro.com:2500/live/roy/12345/14968.ts
+
+#EXTINF:-1,BRAVO | HD http://clientportalpro.com:2500/live/roy/12345/14966.ts
+http://clientportalpro.com:2500/live/roy/12345/14966.ts
+
+#EXTINF:-1,BRAVO | SD http://clientportalpro.com:2500/live/roy/12345/14967.ts
+http://clientportalpro.com:2500/live/roy/12345/14967.ts
+
+#EXTINF:-1,C-SPAN 1 | SD http://clientportalpro.com:2500/live/roy/12345/14964.ts
+http://clientportalpro.com:2500/live/roy/12345/14964.ts
+
+#EXTINF:-1,C-SPAN 2 | SD http://clientportalpro.com:2500/live/roy/12345/14963.ts
+http://clientportalpro.com:2500/live/roy/12345/14963.ts
+
+#EXTINF:-1,C-SPAN 3 | SD http://clientportalpro.com:2500/live/roy/12345/14962.ts
+http://clientportalpro.com:2500/live/roy/12345/14962.ts
+
+#EXTINF:-1,CABLE NEWS NETWORK | HD http://clientportalpro.com:2500/live/roy/12345/14960.ts
+http://clientportalpro.com:2500/live/roy/12345/14960.ts
+
+#EXTINF:-1,CARTOON NETWORK | SD http://clientportalpro.com:2500/live/roy/12345/14959.ts
+http://clientportalpro.com:2500/live/roy/12345/14959.ts
+
+#EXTINF:-1,CBS | SD http://clientportalpro.com:2500/live/roy/12345/14958.ts
+http://clientportalpro.com:2500/live/roy/12345/14958.ts
+
+#EXTINF:-1,CBS | SD http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1985.ts
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1985.ts
+
+#EXTINF:-1,CBSN | HD http://clientportalpro.com:2500/live/roy/12345/14957.ts
+http://clientportalpro.com:2500/live/roy/12345/14957.ts
+
+#EXTINF:-1,CINEMAX ACTION | SD http://clientportalpro.com:2500/live/roy/12345/14954.ts
+http://clientportalpro.com:2500/live/roy/12345/14954.ts
+
+#EXTINF:-1,CINEMAX ACTIONMAX EAST | SD http://clientportalpro.com:2500/live/roy/12345/14952.ts
+http://clientportalpro.com:2500/live/roy/12345/14952.ts
+
+#EXTINF:-1,CINEMAX EAST | SD http://clientportalpro.com:2500/live/roy/12345/14951.ts
+http://clientportalpro.com:2500/live/roy/12345/14951.ts
+
+#EXTINF:-1,CINEMAX MORE | HD http://clientportalpro.com:2500/live/roy/12345/14950.ts
+http://clientportalpro.com:2500/live/roy/12345/14950.ts
+
+#EXTINF:-1,CINEMAX MOREMAX | SD http://clientportalpro.com:2500/live/roy/12345/14949.ts
+http://clientportalpro.com:2500/live/roy/12345/14949.ts
+
+#EXTINF:-1,CNBC | SD http://clientportalpro.com:2500/live/roy/12345/14948.ts
+http://clientportalpro.com:2500/live/roy/12345/14948.ts
+
+#EXTINF:-1,CNBC | SD http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1986.ts
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1986.ts
+
+#EXTINF:-1,CNN | HD http://clientportalpro.com:2500/live/roy/12345/14947.ts
+http://clientportalpro.com:2500/live/roy/12345/14947.ts
+
+#EXTINF:-1,CNN | SD http://clientportalpro.com:2500/live/roy/12345/3333.ts
+http://clientportalpro.com:2500/live/roy/12345/3333.ts
+
+#EXTINF:-1,COMEDY CENTRAL | SD http://clientportalpro.com:2500/live/roy/12345/14946.ts
+http://clientportalpro.com:2500/live/roy/12345/14946.ts
+
+#EXTINF:-1,COMEDY CENTRAL FHD | SD http://clientportalpro.com:2500/live/roy/12345/14945.ts
+http://clientportalpro.com:2500/live/roy/12345/14945.ts
+
+#EXTINF:-1,CW11 | SD http://clientportalpro.com:2500/live/roy/12345/14941.ts
+http://clientportalpro.com:2500/live/roy/12345/14941.ts
+
+#EXTINF:-1,DISCOVERY | HD http://clientportalpro.com:2500/live/roy/12345/14938.ts
+http://clientportalpro.com:2500/live/roy/12345/14938.ts
+
+#EXTINF:-1,DISCOVERY CHANNEL | HD http://clientportalpro.com:2500/live/roy/12345/14939.ts
+http://clientportalpro.com:2500/live/roy/12345/14939.ts
+
+#EXTINF:-1,DISCOVERY SCIENCE | HD http://clientportalpro.com:2500/live/roy/12345/14936.ts
+http://clientportalpro.com:2500/live/roy/12345/14936.ts
+
+#EXTINF:-1,DISCOVERY SHOWCASE | HD http://clientportalpro.com:2500/live/roy/12345/14937.ts
+http://clientportalpro.com:2500/live/roy/12345/14937.ts
+
+#EXTINF:-1,DISCOVERY VELOCITY | SD http://clientportalpro.com:2500/live/roy/12345/14935.ts
+http://clientportalpro.com:2500/live/roy/12345/14935.ts
+
+#EXTINF:-1,DISNEY CHANNEL | HD http://clientportalpro.com:2500/live/roy/12345/14934.ts
+http://clientportalpro.com:2500/live/roy/12345/14934.ts
+
+#EXTINF:-1,DISNEY XD | HD http://clientportalpro.com:2500/live/roy/12345/14933.ts
+http://clientportalpro.com:2500/live/roy/12345/14933.ts
+
+#EXTINF:-1,DIY NETWORK | HD http://clientportalpro.com:2500/live/roy/12345/14931.ts
+http://clientportalpro.com:2500/live/roy/12345/14931.ts
+
+#EXTINF:-1,DIY NETWORK | SD http://clientportalpro.com:2500/live/roy/12345/14932.ts
+http://clientportalpro.com:2500/live/roy/12345/14932.ts
+
+#EXTINF:-1,DW | SD http://clientportalpro.com:2500/live/roy/12345/14930.ts
+http://clientportalpro.com:2500/live/roy/12345/14930.ts
+
+#EXTINF:-1,E! ENTERTAINMENT | HD http://clientportalpro.com:2500/live/roy/12345/14929.ts
+http://clientportalpro.com:2500/live/roy/12345/14929.ts
+
+#EXTINF:-1,EL REY NETWORK | HD http://clientportalpro.com:2500/live/roy/12345/14928.ts
+http://clientportalpro.com:2500/live/roy/12345/14928.ts
+
+#EXTINF:-1,ESPN | HD http://clientportalpro.com:2500/live/roy/12345/14923.ts
+http://clientportalpro.com:2500/live/roy/12345/14923.ts
+
+#EXTINF:-1,ESPN 1 | SD http://clientportalpro.com:2500/live/roy/12345/14927.ts
+http://clientportalpro.com:2500/live/roy/12345/14927.ts
+
+#EXTINF:-1,ESPN 2 | SD http://clientportalpro.com:2500/live/roy/12345/14925.ts
+http://clientportalpro.com:2500/live/roy/12345/14925.ts
+
+#EXTINF:-1,ESPN 2 | SD http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1987.ts
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1987.ts
+
+#EXTINF:-1,FIGHT SPORT | SD http://clientportalpro.com:2500/live/roy/12345/14920.ts
+http://clientportalpro.com:2500/live/roy/12345/14920.ts
+
+#EXTINF:-1,FINE LIVING | SD http://clientportalpro.com:2500/live/roy/12345/14919.ts
+http://clientportalpro.com:2500/live/roy/12345/14919.ts
+
+#EXTINF:-1,FOOD NETWORK | HD http://clientportalpro.com:2500/live/roy/12345/14917.ts
+http://clientportalpro.com:2500/live/roy/12345/14917.ts
+
+#EXTINF:-1,FOOD NETWORK | SD http://clientportalpro.com:2500/live/roy/12345/14918.ts
+http://clientportalpro.com:2500/live/roy/12345/14918.ts
+
+#EXTINF:-1,FOX | HD http://clientportalpro.com:2500/live/roy/12345/14914.ts
+http://clientportalpro.com:2500/live/roy/12345/14914.ts
+
+#EXTINF:-1,FOX 43 | SD http://clientportalpro.com:2500/live/roy/12345/14916.ts
+http://clientportalpro.com:2500/live/roy/12345/14916.ts
+
+#EXTINF:-1,FOX NEWS | HD http://clientportalpro.com:2500/live/roy/12345/14913.ts
+http://clientportalpro.com:2500/live/roy/12345/14913.ts
+
+#EXTINF:-1,FOX SOCCER PLUS | HD http://clientportalpro.com:2500/live/roy/12345/14911.ts
+http://clientportalpro.com:2500/live/roy/12345/14911.ts
+
+#EXTINF:-1,FOX SOCCER PLUS | SD http://clientportalpro.com:2500/live/roy/12345/14912.ts
+http://clientportalpro.com:2500/live/roy/12345/14912.ts
+
+#EXTINF:-1,FOX SPORTS | HD http://clientportalpro.com:2500/live/roy/12345/14904.ts
+http://clientportalpro.com:2500/live/roy/12345/14904.ts
+
+#EXTINF:-1,FOX SPORTS 1 | HD http://clientportalpro.com:2500/live/roy/12345/14909.ts
+http://clientportalpro.com:2500/live/roy/12345/14909.ts
+
+#EXTINF:-1,FOX SPORTS 1 | SD http://clientportalpro.com:2500/live/roy/12345/14910.ts
+http://clientportalpro.com:2500/live/roy/12345/14910.ts
+
+#EXTINF:-1,FOX SPORTS 2 | HD http://clientportalpro.com:2500/live/roy/12345/14907.ts
+http://clientportalpro.com:2500/live/roy/12345/14907.ts
+
+#EXTINF:-1,FOX SPORTS 2 FHD | SD http://clientportalpro.com:2500/live/roy/12345/14908.ts
+http://clientportalpro.com:2500/live/roy/12345/14908.ts
+
+#EXTINF:-1,FOX SPORTS 506 | HD http://clientportalpro.com:2500/live/roy/12345/14906.ts
+http://clientportalpro.com:2500/live/roy/12345/14906.ts
+
+#EXTINF:-1,FOX SPORTS COLLEGE CENTRAL | HD http://clientportalpro.com:2500/live/roy/12345/14905.ts
+http://clientportalpro.com:2500/live/roy/12345/14905.ts
+
+#EXTINF:-1,FOX SPORTS NORTH | HD http://clientportalpro.com:2500/live/roy/12345/14903.ts
+http://clientportalpro.com:2500/live/roy/12345/14903.ts
+
+#EXTINF:-1,FREE FORM | HD http://clientportalpro.com:2500/live/roy/12345/14902.ts
+http://clientportalpro.com:2500/live/roy/12345/14902.ts
+
+#EXTINF:-1,FREEFORM | HD http://clientportalpro.com:2500/live/roy/12345/14901.ts
+http://clientportalpro.com:2500/live/roy/12345/14901.ts
+
+#EXTINF:-1,FX | HD http://clientportalpro.com:2500/live/roy/12345/14897.ts
+http://clientportalpro.com:2500/live/roy/12345/14897.ts
+
+#EXTINF:-1,FX | SD http://clientportalpro.com:2500/live/roy/12345/14898.ts
+http://clientportalpro.com:2500/live/roy/12345/14898.ts
+
+#EXTINF:-1,GSN | HD http://clientportalpro.com:2500/live/roy/12345/14896.ts
+http://clientportalpro.com:2500/live/roy/12345/14896.ts
+
+#EXTINF:-1,H2 | SD http://clientportalpro.com:2500/live/roy/12345/14895.ts
+http://clientportalpro.com:2500/live/roy/12345/14895.ts
+
+#EXTINF:-1,HALLMARK | HD http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1992.ts
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1992.ts
+
+#EXTINF:-1,HBO | HD http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/935.ts
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/935.ts
+
+#EXTINF:-1,HBO | SD http://clientportalpro.com:2500/live/roy/12345/14892.ts
+http://clientportalpro.com:2500/live/roy/12345/14892.ts
+
+#EXTINF:-1,HBO COMEDY | HD http://clientportalpro.com:2500/live/roy/12345/14891.ts
+http://clientportalpro.com:2500/live/roy/12345/14891.ts
+
+#EXTINF:-1,HBO EAST | SD http://clientportalpro.com:2500/live/roy/12345/14890.ts
+http://clientportalpro.com:2500/live/roy/12345/14890.ts
+
+#EXTINF:-1,HBO FAMILY | HD http://clientportalpro.com:2500/live/roy/12345/14889.ts
+http://clientportalpro.com:2500/live/roy/12345/14889.ts
+
+#EXTINF:-1,HBO SIGNATURE | HD http://clientportalpro.com:2500/live/roy/12345/14886.ts
+http://clientportalpro.com:2500/live/roy/12345/14886.ts
+
+#EXTINF:-1,HBO SIGNATURE | SD http://clientportalpro.com:2500/live/roy/12345/14887.ts
+http://clientportalpro.com:2500/live/roy/12345/14887.ts
+
+#EXTINF:-1,HBO ZONE | SD http://clientportalpro.com:2500/live/roy/12345/14885.ts
+http://clientportalpro.com:2500/live/roy/12345/14885.ts
+
+#EXTINF:-1,HGTV | HD http://clientportalpro.com:2500/live/roy/12345/14883.ts
+http://clientportalpro.com:2500/live/roy/12345/14883.ts
+
+#EXTINF:-1,HGTV | SD http://clientportalpro.com:2500/live/roy/12345/14884.ts
+http://clientportalpro.com:2500/live/roy/12345/14884.ts
+
+#EXTINF:-1,HIFI | SD http://clientportalpro.com:2500/live/roy/12345/14882.ts
+http://clientportalpro.com:2500/live/roy/12345/14882.ts
+
+#EXTINF:-1,HISTORY | HD http://clientportalpro.com:2500/live/roy/12345/14880.ts
+http://clientportalpro.com:2500/live/roy/12345/14880.ts
+
+#EXTINF:-1,HISTORY | SD http://clientportalpro.com:2500/live/roy/12345/14881.ts
+http://clientportalpro.com:2500/live/roy/12345/14881.ts
+
+#EXTINF:-1,IFC | HD http://clientportalpro.com:2500/live/roy/12345/14878.ts
+http://clientportalpro.com:2500/live/roy/12345/14878.ts
+
+#EXTINF:-1,INVESTIGATION DISCOVERY | HD http://clientportalpro.com:2500/live/roy/12345/14877.ts
+http://clientportalpro.com:2500/live/roy/12345/14877.ts
+
+#EXTINF:-1,LIFETIME | HD http://clientportalpro.com:2500/live/roy/12345/14876.ts
+http://clientportalpro.com:2500/live/roy/12345/14876.ts
+
+#EXTINF:-1,MLB | HD http://clientportalpro.com:2500/live/roy/12345/14875.ts
+http://clientportalpro.com:2500/live/roy/12345/14875.ts
+
+#EXTINF:-1,MLB NETWORK | HD http://clientportalpro.com:2500/live/roy/12345/14873.ts
+http://clientportalpro.com:2500/live/roy/12345/14873.ts
+
+#EXTINF:-1,MLB NETWORK | SD http://clientportalpro.com:2500/live/roy/12345/14874.ts
+http://clientportalpro.com:2500/live/roy/12345/14874.ts
+
+#EXTINF:-1,MSNBC | HD http://clientportalpro.com:2500/live/roy/12345/14872.ts
+http://clientportalpro.com:2500/live/roy/12345/14872.ts
+
+#EXTINF:-1,MTV BASE | HD http://clientportalpro.com:2500/live/roy/12345/14871.ts
+http://clientportalpro.com:2500/live/roy/12345/14871.ts
+
+#EXTINF:-1,MTV ROCKS | SD http://clientportalpro.com:2500/live/roy/12345/14870.ts
+http://clientportalpro.com:2500/live/roy/12345/14870.ts
+
+#EXTINF:-1,NAT GEOGRAPHIC | HD http://clientportalpro.com:2500/live/roy/12345/14868.ts
+http://clientportalpro.com:2500/live/roy/12345/14868.ts
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC | SD http://clientportalpro.com:2500/live/roy/12345/14867.ts
+http://clientportalpro.com:2500/live/roy/12345/14867.ts
+
+#EXTINF:-1,NBA | HD http://clientportalpro.com:2500/live/roy/12345/14866.ts
+http://clientportalpro.com:2500/live/roy/12345/14866.ts
+
+#EXTINF:-1,NBC | SD http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2312.ts
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2312.ts
+
+#EXTINF:-1,NBC SPORT | HD http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1993.ts
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1993.ts
+
+#EXTINF:-1,NDTV | SD http://clientportalpro.com:2500/live/roy/12345/2924.ts
+http://clientportalpro.com:2500/live/roy/12345/2924.ts
+
+#EXTINF:-1,NET | SD http://clientportalpro.com:2500/live/roy/12345/2918.ts
+http://clientportalpro.com:2500/live/roy/12345/2918.ts
+
+#EXTINF:-1,NFL NETWORK | HD http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1969.ts
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1969.ts
+
+#EXTINF:-1,NICK | SD http://clientportalpro.com:2500/live/roy/12345/2922.ts
+http://clientportalpro.com:2500/live/roy/12345/2922.ts
+
+#EXTINF:-1,SHOW TIME | SD http://clientportalpro.com:2500/live/roy/12345/3764.ts
+http://clientportalpro.com:2500/live/roy/12345/3764.ts
+
+#EXTINF:-1,SPORTSNET ONE | HD http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1995.ts
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1995.ts
+
+#EXTINF:-1,TBS | SD http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2313.ts
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2313.ts
+
+#EXTINF:-1,TSN SPORT 3 | SD http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2000.ts
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2000.ts
+
+#EXTINF:-1,040 | SD http://93.190.142.128:80/live/user2/user2/28079.ts
+http://93.190.142.128:80/live/user2/user2/28079.ts
+
+#EXTINF:-1,4 MUSIC | SD http://clientportalpro.com:2500/live/roy/12345/8051.ts
+http://clientportalpro.com:2500/live/roy/12345/8051.ts
+
+#EXTINF:-1,4 SEVEN | SD http://clientportalpro.com:2500/live/roy/12345/12914.ts
+http://clientportalpro.com:2500/live/roy/12345/12914.ts
+
+#EXTINF:-1,BOOMERANG | SD http://clientportalpro.com:2500/live/roy/12345/8029.ts
+http://clientportalpro.com:2500/live/roy/12345/8029.ts
+
+#EXTINF:-1,BOX NATION | SD http://clientportalpro.com:2500/live/roy/12345/8030.ts
+http://clientportalpro.com:2500/live/roy/12345/8030.ts
+
+#EXTINF:-1,CARTOON NETWORK | SD http://clientportalpro.com:2500/live/roy/12345/5656.ts
+http://clientportalpro.com:2500/live/roy/12345/5656.ts
+
+#EXTINF:-1,CARTOONITO | SD http://clientportalpro.com:2500/live/roy/12345/12912.ts
+http://clientportalpro.com:2500/live/roy/12345/12912.ts
+
+#EXTINF:-1,CBEEBIES | SD http://clientportalpro.com:2500/live/roy/12345/8070.ts
+http://clientportalpro.com:2500/live/roy/12345/8070.ts
+
+#EXTINF:-1,CHANNEL 4 | HD http://clientportalpro.com:2500/live/roy/12345/3084.ts
+http://clientportalpro.com:2500/live/roy/12345/3084.ts
+
+#EXTINF:-1,CHANNEL 5 | HD http://clientportalpro.com:2500/live/roy/12345/3085.ts
+http://clientportalpro.com:2500/live/roy/12345/3085.ts
+
+#EXTINF:-1,CHELSEA TV | SD http://clientportalpro.com:2500/live/roy/12345/5655.ts
+http://clientportalpro.com:2500/live/roy/12345/5655.ts
+
+#EXTINF:-1,CNN | HD http://clientportalpro.com:2500/live/roy/12345/8042.ts
+http://clientportalpro.com:2500/live/roy/12345/8042.ts
+
+#EXTINF:-1,COMEDY EXTRA | SD http://clientportalpro.com:2500/live/roy/12345/8043.ts
+http://clientportalpro.com:2500/live/roy/12345/8043.ts
+
+#EXTINF:-1,DAVE | HD http://clientportalpro.com:2500/live/roy/12345/3088.ts
+http://clientportalpro.com:2500/live/roy/12345/3088.ts
+
+#EXTINF:-1,DISCOVERY SHED | SD http://clientportalpro.com:2500/live/roy/12345/8047.ts
+http://clientportalpro.com:2500/live/roy/12345/8047.ts
+
+#EXTINF:-1,DISNEY CHANNEL | SD http://clientportalpro.com:2500/live/roy/12345/8065.ts
+http://clientportalpro.com:2500/live/roy/12345/8065.ts
+
+#EXTINF:-1,DISNEYJUNIOR | SD http://clientportalpro.com:2500/live/roy/12345/8064.ts
+http://clientportalpro.com:2500/live/roy/12345/8064.ts
+
+#EXTINF:-1,E! ENTERTAINMENT | SD http://clientportalpro.com:2500/live/roy/12345/8063.ts
+http://clientportalpro.com:2500/live/roy/12345/8063.ts
+
+#EXTINF:-1,EIR SPORTS 1 | SD http://clientportalpro.com:2500/live/roy/12345/8072.ts
+http://clientportalpro.com:2500/live/roy/12345/8072.ts
+
+#EXTINF:-1,EIR SPORTS 2 | HD http://clientportalpro.com:2500/live/roy/12345/8073.ts
+http://clientportalpro.com:2500/live/roy/12345/8073.ts
+
+#EXTINF:-1,H2 | SD http://clientportalpro.com:2500/live/roy/12345/8055.ts
+http://clientportalpro.com:2500/live/roy/12345/8055.ts
+
+#EXTINF:-1,HEART TV | HD http://clientportalpro.com:2500/live/roy/12345/8074.ts
+http://clientportalpro.com:2500/live/roy/12345/8074.ts
+
+#EXTINF:-1,HISTORY | HD http://clientportalpro.com:2500/live/roy/12345/12911.ts
+http://clientportalpro.com:2500/live/roy/12345/12911.ts
+
+#EXTINF:-1,ITV ENCORE | SD http://clientportalpro.com:2500/live/roy/12345/8083.ts
+http://clientportalpro.com:2500/live/roy/12345/8083.ts
+
+#EXTINF:-1,LFC TV | HD http://clientportalpro.com:2500/live/roy/12345/8067.ts
+http://clientportalpro.com:2500/live/roy/12345/8067.ts
+
+#EXTINF:-1,LIFETIME | HD http://clientportalpro.com:2500/live/roy/12345/8075.ts
+http://clientportalpro.com:2500/live/roy/12345/8075.ts
+
+#EXTINF:-1,LIVERPOOL FC | SD http://clientportalpro.com:2500/live/roy/12345/8049.ts
+http://clientportalpro.com:2500/live/roy/12345/8049.ts
+
+#EXTINF:-1,MTV DANCE | HD http://clientportalpro.com:2500/live/roy/12345/8077.ts
+http://clientportalpro.com:2500/live/roy/12345/8077.ts
+
+#EXTINF:-1,MTV HITS | HD http://clientportalpro.com:2500/live/roy/12345/8078.ts
+http://clientportalpro.com:2500/live/roy/12345/8078.ts
+
+#EXTINF:-1,MTV LIVE | HD http://clientportalpro.com:2500/live/roy/12345/8079.ts
+http://clientportalpro.com:2500/live/roy/12345/8079.ts
+
+#EXTINF:-1,MTV MUSIC | SD http://clientportalpro.com:2500/live/roy/12345/8080.ts
+http://clientportalpro.com:2500/live/roy/12345/8080.ts
+
+#EXTINF:-1,MTV ROCKS | HD http://clientportalpro.com:2500/live/roy/12345/8081.ts
+http://clientportalpro.com:2500/live/roy/12345/8081.ts
+
+#EXTINF:-1,NICK JR PEPPA | SD http://clientportalpro.com:2500/live/roy/12345/8048.ts
+http://clientportalpro.com:2500/live/roy/12345/8048.ts
+
+#EXTINF:-1,NICK JUNIOR | SD http://clientportalpro.com:2500/live/roy/12345/2241.ts
+http://clientportalpro.com:2500/live/roy/12345/2241.ts
+
+#EXTINF:-1,NICK-JR-TOO | SD http://clientportalpro.com:2500/live/roy/12345/2242.ts
+http://clientportalpro.com:2500/live/roy/12345/2242.ts
+
+#EXTINF:-1,NICKELODEON | HD http://clientportalpro.com:2500/live/roy/12345/2240.ts
+http://clientportalpro.com:2500/live/roy/12345/2240.ts
+
+#EXTINF:-1,NICKTOONS | SD http://clientportalpro.com:2500/live/roy/12345/1943.ts
+http://clientportalpro.com:2500/live/roy/12345/1943.ts
+
+#EXTINF:-1,POP MAX | SD http://clientportalpro.com:2500/live/roy/12345/12913.ts
+http://clientportalpro.com:2500/live/roy/12345/12913.ts
+
+#EXTINF:-1,REAL LIVES | SD http://clientportalpro.com:2500/live/roy/12345/8076.ts
+http://clientportalpro.com:2500/live/roy/12345/8076.ts
+
+#EXTINF:-1,SKY 2 | SD http://gigaiptv.pro:8000/live/D2re9gN1ZB/IzxCgeyjJm/3539.ts
+http://gigaiptv.pro:8000/live/D2re9gN1ZB/IzxCgeyjJm/3539.ts
+
+#EXTINF:-1,SKY MOVIES DISNEY | HD http://clientportalpro.com:2500/live/roy/12345/8068.ts
+http://clientportalpro.com:2500/live/roy/12345/8068.ts
+
+#EXTINF:-1,France 24 (english) http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1,Assemblée Nationale Quebec http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+
+#EXTINF:-1,TSC http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
+
+#EXTINF:-1,World Fashion International HD http://cdn-01.bonus-tv.ru:9090/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34bf0820ea622974e83ae509b36cff888/playlist.m3u8
+http://cdn-01.bonus-tv.ru:9090/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34bf0820ea622974e83ae509b36cff888/playlist.m3u8
+
+#EXTINF:-1,NRJ Hits TV http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+
+#EXTINF:-1,Juce TV http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8
+http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8
+
+#EXTINF:-1,Ibiza Global http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+
+#EXTINF:-1,Djing Dancefloor SD http://www.djing.com/tv/dancefloor.m3u8
+http://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1,Djing TV HD http://www.djing.com/tv/05.m3u8
+http://www.djing.com/tv/05.m3u8
+
+#EXTINF:-1,Vibee TV Music http://46.101.21.42:8081/live/live2/chunks.m3u8
+http://46.101.21.42:8081/live/live2/chunks.m3u8
+
+#EXTINF:-1,
+http://iptv.premiumtutv.com/canal_85_depelcula.m3u8
+
+#EXTINF:-1,bt sport 1 http://streams.iptv.zone:80/p/108715/c/10/u/23054/8yVttR8Yxy7v24AHFmy6sL8d3U5p7c
+http://streams.iptv.zone:80/p/108715/c/10/u/23054/8yVttR8Yxy7v24AHFmy6sL8d3U5p7c
+
+#EXTINF:-1,bt sport 2 http://streams.iptv.zone:80/p/108715/c/11/u/23054/8yVttR8Yxy7v24AHFmy6sL8d3U5p7c
+http://streams.iptv.zone:80/p/108715/c/11/u/23054/8yVttR8Yxy7v24AHFmy6sL8d3U5p7c
+
+#EXTINF:-1,bt sport | espn http://streams.iptv.zone:80/p/108715/c/12/u/23054/8yVttR8Yxy7v24AHFmy6sL8d3U5p7c
+http://streams.iptv.zone:80/p/108715/c/12/u/23054/8yVttR8Yxy7v24AHFmy6sL8d3U5p7c
+
+#EXTINF:-1,Fox http://channels.premiumtutv.com/stream_8_sk_st.m3u8
+http://channels.premiumtutv.com/stream_8_sk_st.m3u8
+
+#EXTINF:-1,Sony http://channels.premiumtutv.com/stream_11_sk_st.m3u8
+http://channels.premiumtutv.com/stream_11_sk_st.m3u8
+
+#EXTINF:-1,TNT http://channels.premiumtutv.com/stream_15_sk_st.m3u8
+http://channels.premiumtutv.com/stream_15_sk_st.m3u8
+
+#EXTINF:-1,Universal Channel http://channels.premiumtutv.com/stream_33_sk_st.m3u8
+http://channels.premiumtutv.com/stream_33_sk_st.m3u8
+
+#EXTINF:-1,TNT Series http://channels.premiumtutv.com/stream_39_sk_st.m3u8
+http://channels.premiumtutv.com/stream_39_sk_st.m3u8
+
+#EXTINF:-1,Syfy http://channels.premiumtutv.com/stream_42_sk_st.m3u8
+http://channels.premiumtutv.com/stream_42_sk_st.m3u8
+
+#EXTINF:-1,Fox life http://channels.premiumtutv.com/stream_44_sk_st.m3u8
+http://channels.premiumtutv.com/stream_44_sk_st.m3u8
+
+#EXTINF:-1,E! Entertainment Television http://channels.premiumtutv.com/stream_45_sk_st.m3u8
+http://channels.premiumtutv.com/stream_45_sk_st.m3u8
+
+#EXTINF:-1,Fox Movies HD http://channels.premiumtutv.com/stream_46_sk_st.m3u8
+http://channels.premiumtutv.com/stream_46_sk_st.m3u8
+
+#EXTINF:-1,AyM Sports http://channels.premiumtutv.com/stream_47_sk_st.m3u8
+http://channels.premiumtutv.com/stream_47_sk_st.m3u8
+
+#EXTINF:-1,A&E http://channels.premiumtutv.com/stream_48_sk_st.m3u8
+http://channels.premiumtutv.com/stream_48_sk_st.m3u8
+
+#EXTINF:-1,Fox Classics http://channels.premiumtutv.com/stream_52_sk_st.m3u8
+http://channels.premiumtutv.com/stream_52_sk_st.m3u8
+
+#EXTINF:-1,Fox CinÃ©ma http://channels.premiumtutv.com/stream_53_sk_st.m3u8
+http://channels.premiumtutv.com/stream_53_sk_st.m3u8
+
+#EXTINF:-1,Golden http://channels.premiumtutv.com/stream_54_sk_st.m3u8
+http://channels.premiumtutv.com/stream_54_sk_st.m3u8
+
+#EXTINF:-1,Studio Universal http://channels.premiumtutv.com/stream_56_sk_st.m3u8
+http://channels.premiumtutv.com/stream_56_sk_st.m3u8
+
+#EXTINF:-1,TCM http://channels.premiumtutv.com/stream_57_sk_st.m3u8
+http://channels.premiumtutv.com/stream_57_sk_st.m3u8
+
+#EXTINF:-1,AXN http://channels.premiumtutv.com/stream_74_sk_st.m3u8
+http://channels.premiumtutv.com/stream_74_sk_st.m3u8
+
+#EXTINF:-1,Warner http://channels.premiumtutv.com/stream_76_sk_st.m3u8
+http://channels.premiumtutv.com/stream_76_sk_st.m3u8
+
+#EXTINF:-1,Fox Sports 2 http://channels.premiumtutv.com/stream_77_sk_st.m3u8
+http://channels.premiumtutv.com/stream_77_sk_st.m3u8
+
+#EXTINF:-1,Universal http://channels.premiumtutv.com/stream_78_sk_st.m3u8
+http://channels.premiumtutv.com/stream_78_sk_st.m3u8
+
+#EXTINF:-1,The Film Zone http://channels.premiumtutv.com/stream_79_sk_st.m3u8
+http://channels.premiumtutv.com/stream_79_sk_st.m3u8
+
+#EXTINF:-1,Space http://channels.premiumtutv.com/stream_81_sk_st.m3u8
+http://channels.premiumtutv.com/stream_81_sk_st.m3u8
+
+#EXTINF:-1,NatGeo Wild http://channels.premiumtutv.com/stream_82_sk_st.m3u8
+http://channels.premiumtutv.com/stream_82_sk_st.m3u8
+
+#EXTINF:-1,History http://channels.premiumtutv.com/stream_83_sk_st.m3u8
+http://channels.premiumtutv.com/stream_83_sk_st.m3u8
+
+#EXTINF:-1,Bandamax http://channels.premiumtutv.com/stream_84_sk_st.m3u8
+http://channels.premiumtutv.com/stream_84_sk_st.m3u8
+
+#EXTINF:-1,De PelÃ­cula http://channels.premiumtutv.com/stream_85_sk_st.m3u8
+http://channels.premiumtutv.com/stream_85_sk_st.m3u8
+
+#EXTINF:-1,Discovery World http://channels.premiumtutv.com/stream_87_sk_st.m3u8
+http://channels.premiumtutv.com/stream_87_sk_st.m3u8
+
+#EXTINF:-1,Fox Action http://channels.premiumtutv.com/stream_88_sk_st.m3u8
+http://channels.premiumtutv.com/stream_88_sk_st.m3u8
+
+#EXTINF:-1,Fox 1 http://channels.premiumtutv.com/stream_89_sk_st.m3u8 #EXTM3U
+http://channels.premiumtutv.com/stream_89_sk_st.m3u8
+
+#EXTINF:-1,NATGEO WILD http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(06)/index.m3u8
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,TLC http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/Stream(01)/index.m3u8
+
+#EXTINF:-1,NICK HD http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/Stream(01)/index.m3u8
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,UK : Boxnation http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/525.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/525.ts
+
+#EXTINF:-1,UK : BT Sports ESPN http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/524.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/524.ts
+
+#EXTINF:-1,UK : BT Sports 1 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/229.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/229.ts
+
+#EXTINF:-1,UK : BT Sports 2 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/230.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/230.ts
+
+#EXTINF:-1,UK : BT Sports 3 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/523.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/523.ts
+
+#EXTINF:-1,UK : Sky Sports Main Event HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/226.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/226.ts
+
+#EXTINF:-1,UK : Sky Sports Cricket HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/535.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/535.ts
+
+#EXTINF:-1,UK : Sky Sports Action HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/227.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/227.ts
+
+#EXTINF:-1,UK : SKY Sports Golf HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/256.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/256.ts
+
+#EXTINF:-1,UK : SKY Sports Premier League HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/257.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/257.ts
+
+#EXTINF:-1,UK : Sky Sport MIX http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/717.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/717.ts
+
+#EXTINF:-1,Uk : Sky Sports F1 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/659.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/659.ts
+
+#EXTINF:-1,UK : eir Sport 1 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/536.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/536.ts
+
+#EXTINF:-1,UK : eir Sport 2 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/537.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/537.ts
+
+#EXTINF:-1,UK : Racing http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/541.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/541.ts
+
+#EXTINF:-1,Uk : Eurosport 1 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/655.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/655.ts
+
+#EXTINF:-1,Uk : EuroSports HD 2 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/654.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/654.ts
+
+#EXTINF:-1,Uk : Sky Sports News HQ http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/657.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/657.ts
+
+#EXTINF:-1,UK : Manchester United TV http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/666.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/666.ts
+
+#EXTINF:-1,UK : LFC TV http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/511.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/511.ts
+
+#EXTINF:-1,UK : Chelsea tv http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/669.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/669.ts
+
+#EXTINF:-1,DE : Eurosport 1 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/111.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/111.ts
+
+#EXTINF:-1,DE : Eurosport 2 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/128.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/128.ts
+
+#EXTINF:-1,DE : Sky Bundesliga 1 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/107.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/107.ts
+
+#EXTINF:-1,DE : Sky Sport News http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/106.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/106.ts
+
+#EXTINF:-1,DE : Sky Sport Austria http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/572.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/572.ts
+
+#EXTINF:-1,IT : Fox Sports 1 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/176.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/176.ts
+
+#EXTINF:-1,IT : EUROSPORT 1 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/218.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/218.ts
+
+#EXTINF:-1,IT : SKY SPORT 1 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/239.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/239.ts
+
+#EXTINF:-1,IT : SKY SPORT F1 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/507.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/507.ts
+
+#EXTINF:-1,IT : SKY SPORT 24 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/148.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/148.ts
+
+#EXTINF:-1,IT : SKY SUPER CALCIO HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/146.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/146.ts
+
+#EXTINF:-1,FR : BFM SPORT TV http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/359.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/359.ts
+
+#EXTINF:-1,FR : FOOT 24 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/394.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/394.ts
+
+#EXTINF:-1,FR : L'EQUIPE 21 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/395.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/395.ts
+
+#EXTINF:-1,FR : SFR Sport 1 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/96.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/96.ts
+
+#EXTINF:-1,FR : SFR Sport 2 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/97.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/97.ts
+
+#EXTINF:-1,ES : Bein Sports La Liga FHD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/850.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/850.ts
+
+#EXTINF:-1,AR : beIN SPORTS 1 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/166.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/166.ts
+
+#EXTINF:-1,AR : beIN SPORTS 2 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/167.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/167.ts
+
+#EXTINF:-1,AR : beIN SPORTS 3 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/168.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/168.ts
+
+#EXTINF:-1,AR : beIN SPORTS 4 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/169.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/169.ts
+
+#EXTINF:-1,AR : beIN SPORTS 5 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/170.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/170.ts
+
+#EXTINF:-1,AR : beIN SPORTS 7 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/172.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/172.ts
+
+#EXTINF:-1,AR : beIN SPORTS 8 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/173.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/173.ts
+
+#EXTINF:-1,FR : BeIN SPORTS 1 HD http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/44.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/44.ts
+
+#EXTINF:-1,FR : BEIN SPORTS MAX 4 FR http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/367.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/367.ts
+
+#EXTINF:-1,FR : BeIN SPORTS MAX 5 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/676.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/676.ts
+
+#EXTINF:-1,FR : BEIN SPORTS MAX 6 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/368.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/368.ts
+
+#EXTINF:-1,FR : BeIN SPORTS MAX 7 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/677.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/677.ts
+
+#EXTINF:-1,FR : BeIN SPORTS MAX 8 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/678.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/678.ts
+
+#EXTINF:-1,FR : BeIN SPORTS MAX 9 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/679.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/679.ts
+
+#EXTINF:-1,FR : BeIN SPORTS MAX 10 http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/680.ts
+http://local.iptvpoint.com:25461/live/hichem.jmal/skype09/680.ts
+
+#EXTINF:-1,BEiN SPORT-1 HD (720P) http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/1.ts
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/1.ts
+
+#EXTINF:-1,BEiN SPORT-2 HD (720P) http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/2.ts
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/2.ts
+
+#EXTINF:-1,BEiN SPORT-3 HD (720P) http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/3.ts
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/3.ts
+
+#EXTINF:-1,SMARTSPOR HD 1080P http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/97.ts
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/97.ts
+
+#EXTINF:-1,TIVIBUSPOR-1 HD http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/93.ts
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/93.ts
+
+#EXTINF:-1,TIVIBUSPOR-2 HD http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/94.ts
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/94.ts
+
+#EXTINF:-1,TIVIBUSPOR-3 HD http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/95.ts
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/95.ts
+
+#EXTINF:-1,TIVIBUSPOR-4 HD http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/96.ts
+http://championtv.dyndns.tv:2016/live/viphdiptv/sn4ks62na/96.ts
+
+#EXTINF:-1,125 - B-T-SPORTS 1 HD http://93.190.142.128:80/live/user2/user2/27994.ts
+http://93.190.142.128:80/live/user2/user2/27994.ts
+
+#EXTINF:-1,126 - B-T-SPORTS 1 http://93.190.142.128:80/live/user2/user2/27993.ts
+http://93.190.142.128:80/live/user2/user2/27993.ts
+
+#EXTINF:-1,127 - B-T-SPORTS 2 HD http://93.190.142.128:80/live/user2/user2/27992.ts
+http://93.190.142.128:80/live/user2/user2/27992.ts
+
+#EXTINF:-1,128 - B-T-SPORTS 2 http://93.190.142.128:80/live/user2/user2/27991.ts
+http://93.190.142.128:80/live/user2/user2/27991.ts
+
+#EXTINF:-1,129 - B-T-SPORTS 3 HD http://93.190.142.128:80/live/user2/user2/27990.ts
+http://93.190.142.128:80/live/user2/user2/27990.ts
+
+#EXTINF:-1,130 - B-T-SPORTS 3 http://93.190.142.128:80/live/user2/user2/27989.ts
+http://93.190.142.128:80/live/user2/user2/27989.ts
+
+#EXTINF:-1,131 - B-T-SPORTS ESPN HD http://93.190.142.128:80/live/user2/user2/27988.ts
+http://93.190.142.128:80/live/user2/user2/27988.ts
+
+#EXTINF:-1,132 - B-T-SPORTS ESPN http://93.190.142.128:80/live/user2/user2/27987.ts
+http://93.190.142.128:80/live/user2/user2/27987.ts
+
+#EXTINF:-1,134 - B-T-SPORTS-EXTRA 2 http://93.190.142.128:80/live/user2/user2/27985.ts
+http://93.190.142.128:80/live/user2/user2/27985.ts
+
+#EXTINF:-1,135 - B-T-SPORTS-EXTRA 3 http://93.190.142.128:80/live/user2/user2/27984.ts
+http://93.190.142.128:80/live/user2/user2/27984.ts
+
+#EXTINF:-1,136 - B-T-SPORTS-EXTRA 4 http://93.190.142.128:80/live/user2/user2/27983.ts
+http://93.190.142.128:80/live/user2/user2/27983.ts
+
+#EXTINF:-1,137 - B-T-SPORTS-EXTRA 5 http://93.190.142.128:80/live/user2/user2/27982.ts
+http://93.190.142.128:80/live/user2/user2/27982.ts
+
+#EXTINF:-1,138 - B-T-SPORTS-EXTRA 6 http://93.190.142.128:80/live/user2/user2/27981.ts
+http://93.190.142.128:80/live/user2/user2/27981.ts
+
+#EXTINF:-1,139 - SLY-SPORTS-BOX-OFFICE-HD http://93.190.142.128:80/live/user2/user2/27980.ts
+http://93.190.142.128:80/live/user2/user2/27980.ts
+
+#EXTINF:-1,140 - SLY-SPORTS-MAIN-EVENT-HD http://93.190.142.128:80/live/user2/user2/27979.ts
+http://93.190.142.128:80/live/user2/user2/27979.ts
+
+#EXTINF:-1,141 - SLY-SPORTS-MAIN-EVENT http://93.190.142.128:80/live/user2/user2/27978.ts
+http://93.190.142.128:80/live/user2/user2/27978.ts
+
+#EXTINF:-1,142 - SLY-SPORTS-ACTION-HD http://93.190.142.128:80/live/user2/user2/27977.ts
+http://93.190.142.128:80/live/user2/user2/27977.ts
+
+#EXTINF:-1,143 - SLY-SPORTS-ACTION http://93.190.142.128:80/live/user2/user2/27976.ts
+http://93.190.142.128:80/live/user2/user2/27976.ts
+
+#EXTINF:-1,144 - SLY-SPORTS-PREM-LEAGUE-HD http://93.190.142.128:80/live/user2/user2/27975.ts
+http://93.190.142.128:80/live/user2/user2/27975.ts
+
+#EXTINF:-1,145 - SLY-SPORTS-PREM-LEAGUE http://93.190.142.128:80/live/user2/user2/27974.ts
+http://93.190.142.128:80/live/user2/user2/27974.ts
+
+#EXTINF:-1,146 - SLY-SPORTS-FOOTBALL-HD http://93.190.142.128:80/live/user2/user2/27973.ts
+http://93.190.142.128:80/live/user2/user2/27973.ts
+
+#EXTINF:-1,147 - SLY-SPORTS-FOOTBALL http://93.190.142.128:80/live/user2/user2/27972.ts
+http://93.190.142.128:80/live/user2/user2/27972.ts
+
+#EXTINF:-1,148 - SLY-SPORTS-ARENA-HD http://93.190.142.128:80/live/user2/user2/27971.ts
+http://93.190.142.128:80/live/user2/user2/27971.ts
+
+#EXTINF:-1,149 - SLY-SPORTS-ARENA http://93.190.142.128:80/live/user2/user2/27970.ts
+http://93.190.142.128:80/live/user2/user2/27970.ts
+
+#EXTINF:-1,150 - SLY-SPORTS-CRICKET-HD http://93.190.142.128:80/live/user2/user2/27969.ts
+http://93.190.142.128:80/live/user2/user2/27969.ts
+
+#EXTINF:-1,151 - SLY-SPORTS-CRICKET http://93.190.142.128:80/live/user2/user2/27968.ts
+http://93.190.142.128:80/live/user2/user2/27968.ts
+
+#EXTINF:-1,152 - SLY-SPORTS-F1-HD http://93.190.142.128:80/live/user2/user2/27967.ts
+http://93.190.142.128:80/live/user2/user2/27967.ts
+
+#EXTINF:-1,153 - SLY-SPORTS-F1 http://93.190.142.128:80/live/user2/user2/27966.ts
+http://93.190.142.128:80/live/user2/user2/27966.ts
+
+#EXTINF:-1,154 - SLY-SPORTS-GOLF-HD http://93.190.142.128:80/live/user2/user2/27965.ts
+http://93.190.142.128:80/live/user2/user2/27965.ts
+
+#EXTINF:-1,155 - SLY-SPORTS-GOLF http://93.190.142.128:80/live/user2/user2/27964.ts
+http://93.190.142.128:80/live/user2/user2/27964.ts
+
+#EXTINF:-1,156 - SLY-SPORTS-MIX-HD http://93.190.142.128:80/live/user2/user2/27963.ts
+http://93.190.142.128:80/live/user2/user2/27963.ts
+
+#EXTINF:-1,157 - SLY-SPORTS-MIX http://93.190.142.128:80/live/user2/user2/27962.ts
+http://93.190.142.128:80/live/user2/user2/27962.ts
+
+#EXTINF:-1,158 - SLY-SPORTS-NEWS-HD http://93.190.142.128:80/live/user2/user2/27961.ts
+http://93.190.142.128:80/live/user2/user2/27961.ts
+
+#EXTINF:-1,159 - SLY-SPORTS-NEWS http://93.190.142.128:80/live/user2/user2/27960.ts
+http://93.190.142.128:80/live/user2/user2/27960.ts
+
+#EXTINF:-1,169 - MOTORSPORT TV http://93.190.142.128:80/live/user2/user2/27955.ts
+http://93.190.142.128:80/live/user2/user2/27955.ts
+
+#EXTINF:-1,170 - EIR-SPORT 1 http://93.190.142.128:80/live/user2/user2/27954.ts
+http://93.190.142.128:80/live/user2/user2/27954.ts
+
+#EXTINF:-1,171 - EIR-SPORT 2 http://93.190.142.128:80/live/user2/user2/27953.ts
+http://93.190.142.128:80/live/user2/user2/27953.ts
+
+#EXTINF:-1,172 - EUROSPORT 1 http://93.190.142.128:80/live/user2/user2/27952.ts
+http://93.190.142.128:80/live/user2/user2/27952.ts
+
+#EXTINF:-1,173 - EUROSPORT 2 http://93.190.142.128:80/live/user2/user2/27951.ts
+http://93.190.142.128:80/live/user2/user2/27951.ts
+
+#EXTINF:-1,174 - PREMIERSPORTS HD http://93.190.142.128:80/live/user2/user2/27950.ts
+http://93.190.142.128:80/live/user2/user2/27950.ts
+
+#EXTINF:-1,175 - PREMIERSPORTS http://93.190.142.128:80/live/user2/user2/27949.ts
+http://93.190.142.128:80/live/user2/user2/27949.ts
+
+#EXTINF:-1,176 - RACING UK HD http://93.190.142.128:80/live/user2/user2/27948.ts
+http://93.190.142.128:80/live/user2/user2/27948.ts
+
+#EXTINF:-1,177 - RACING UK http://93.190.142.128:80/live/user2/user2/27947.ts
+http://93.190.142.128:80/live/user2/user2/27947.ts
+
+#EXTINF:-1,180 - SPORTS-NET-EAST HD (US) http://93.190.142.128:80/live/user2/user2/27946.ts
+http://93.190.142.128:80/live/user2/user2/27946.ts
+
+#EXTINF:-1,181 - SPORTS-NET-EAST (US) http://93.190.142.128:80/live/user2/user2/27945.ts
+http://93.190.142.128:80/live/user2/user2/27945.ts
+
+#EXTINF:-1,182 - SPORTS-NET-ONTARIO HD (US) http://93.190.142.128:80/live/user2/user2/27944.ts
+http://93.190.142.128:80/live/user2/user2/27944.ts
+
+#EXTINF:-1,183 - SPORTS-NET-ONTARIO (US) http://93.190.142.128:80/live/user2/user2/27943.ts
+http://93.190.142.128:80/live/user2/user2/27943.ts
+
+#EXTINF:-1,184 - SPORTS-NET-PACIFIC HD (US) http://93.190.142.128:80/live/user2/user2/27942.ts
+http://93.190.142.128:80/live/user2/user2/27942.ts
+
+#EXTINF:-1,185 - SPORTS-NET-PACIFIC (US) http://93.190.142.128:80/live/user2/user2/27941.ts
+http://93.190.142.128:80/live/user2/user2/27941.ts
+
+#EXTINF:-1,186 - SPORTS-NET-WEST HD (US) http://93.190.142.128:80/live/user2/user2/27940.ts
+http://93.190.142.128:80/live/user2/user2/27940.ts
+
+#EXTINF:-1,187 - SPORTS-NET-WEST (US) http://93.190.142.128:80/live/user2/user2/27939.ts
+http://93.190.142.128:80/live/user2/user2/27939.ts
+
+#EXTINF:-1,188 - SPORTS-NET-WORLD HD (US) http://93.190.142.128:80/live/user2/user2/27938.ts
+http://93.190.142.128:80/live/user2/user2/27938.ts
+
+#EXTINF:-1,189 - SPORTS-NET-WORLD (US) http://93.190.142.128:80/live/user2/user2/27937.ts
+http://93.190.142.128:80/live/user2/user2/27937.ts
+
+#EXTINF:-1,190 - SPORTS-NET-360 HD (US) http://93.190.142.128:80/live/user2/user2/27936.ts
+http://93.190.142.128:80/live/user2/user2/27936.ts
+
+#EXTINF:-1,191 - SPORTS-NET-360 (US) http://93.190.142.128:80/live/user2/user2/27935.ts
+http://93.190.142.128:80/live/user2/user2/27935.ts
+
+#EXTINF:-1,192 - SPORTS-NET-ONE HD (US) http://93.190.142.128:80/live/user2/user2/27934.ts
+http://93.190.142.128:80/live/user2/user2/27934.ts
+
+#EXTINF:-1,193 - SPORTS-NET-ONE (US) http://93.190.142.128:80/live/user2/user2/27933.ts
+http://93.190.142.128:80/live/user2/user2/27933.ts
+
+#EXTINF:-1,199 - WWE NETWORK (US) http://93.190.142.128:80/live/user2/user2/27927.ts
+http://93.190.142.128:80/live/user2/user2/27927.ts
+
+#EXTINF:-1,200 - FOX-SPORTS 1 (US) http://93.190.142.128:80/live/user2/user2/27926.ts
+http://93.190.142.128:80/live/user2/user2/27926.ts
+
+#EXTINF:-1,201 - FOX-SPORTS 2 (US) http://93.190.142.128:80/live/user2/user2/27925.ts
+http://93.190.142.128:80/live/user2/user2/27925.ts
+
+#EXTINF:-1,202 - AFN-SPORTS (US) http://93.190.142.128:80/live/user2/user2/27924.ts
+http://93.190.142.128:80/live/user2/user2/27924.ts
+
+#EXTINF:-1,203 - AFN-SPORTS 2 (US) http://93.190.142.128:80/live/user2/user2/27923.ts
+http://93.190.142.128:80/live/user2/user2/27923.ts
+
+#EXTINF:-1,204 - MLB NETWORK (US) http://93.190.142.128:80/live/user2/user2/27922.ts
+http://93.190.142.128:80/live/user2/user2/27922.ts
+
+#EXTINF:-1,205 - NBA TV (US) http://93.190.142.128:80/live/user2/user2/27921.ts
+http://93.190.142.128:80/live/user2/user2/27921.ts
+
+#EXTINF:-1,220 - BEIN FR 1 http://93.190.142.128:80/live/user2/user2/27920.ts
+http://93.190.142.128:80/live/user2/user2/27920.ts
+
+#EXTINF:-1,221 - BEIN FR 2 http://93.190.142.128:80/live/user2/user2/27919.ts
+http://93.190.142.128:80/live/user2/user2/27919.ts
+
+#EXTINF:-1,222 - BEIN FR 3 http://93.190.142.128:80/live/user2/user2/27918.ts
+http://93.190.142.128:80/live/user2/user2/27918.ts
+
+#EXTINF:-1,223 - BEIN-SPORTS 1 HD http://93.190.142.128:80/live/user2/user2/27917.ts
+http://93.190.142.128:80/live/user2/user2/27917.ts
+
+#EXTINF:-1,224 - BEIN-SPORTS 2 HD http://93.190.142.128:80/live/user2/user2/27916.ts
+http://93.190.142.128:80/live/user2/user2/27916.ts
+
+#EXTINF:-1,225 - BEIN-SPORTS 3 HD http://93.190.142.128:80/live/user2/user2/27915.ts
+http://93.190.142.128:80/live/user2/user2/27915.ts
+
+#EXTINF:-1,226 - BEIN-SPORTS 4 HD http://93.190.142.128:80/live/user2/user2/27914.ts
+http://93.190.142.128:80/live/user2/user2/27914.ts
+
+#EXTINF:-1,227 - BEIN-SPORTS 5 HD http://93.190.142.128:80/live/user2/user2/27913.ts
+http://93.190.142.128:80/live/user2/user2/27913.ts
+
+#EXTINF:-1,228 - BEIN-SPORTS 6 HD http://93.190.142.128:80/live/user2/user2/27912.ts
+http://93.190.142.128:80/live/user2/user2/27912.ts
+
+#EXTINF:-1,229 - BEIN-SPORTS 7 HD http://93.190.142.128:80/live/user2/user2/27911.ts
+http://93.190.142.128:80/live/user2/user2/27911.ts
+
+#EXTINF:-1,230 - BEIN-SPORTS 8 HD http://93.190.142.128:80/live/user2/user2/27910.ts
+http://93.190.142.128:80/live/user2/user2/27910.ts
+
+#EXTINF:-1,231 - BEIN-SPORTS 9 HD http://93.190.142.128:80/live/user2/user2/27909.ts
+http://93.190.142.128:80/live/user2/user2/27909.ts
+
+#EXTINF:-1,232 - BEIN-SPORTS 10 HD http://93.190.142.128:80/live/user2/user2/27908.ts
+http://93.190.142.128:80/live/user2/user2/27908.ts
+
+#EXTINF:-1,233 - BEIN-SPORTS 11 HD http://93.190.142.128:80/live/user2/user2/27907.ts
+http://93.190.142.128:80/live/user2/user2/27907.ts
+
+#EXTINF:-1,234 - BEIN-SPORTS 12 HD http://93.190.142.128:80/live/user2/user2/27906.ts
+http://93.190.142.128:80/live/user2/user2/27906.ts
+
+#EXTINF:-1,235 - BEIN-SPORTS EPL 1 (GAME TIMES ONLY) http://93.190.142.128:80/live/user2/user2/27905.ts
+http://93.190.142.128:80/live/user2/user2/27905.ts
+
+#EXTINF:-1,236 - BEIN-SPORTS EPL 2 (GAME TIMES ONLY) http://93.190.142.128:80/live/user2/user2/27904.ts
+http://93.190.142.128:80/live/user2/user2/27904.ts
+
+#EXTINF:-1,237 - BEIN-SPORTS EPL 3 (GAME TIMES ONLY) http://93.190.142.128:80/live/user2/user2/27903.ts
+http://93.190.142.128:80/live/user2/user2/27903.ts
+
+#EXTINF:-1,238 - BEIN-SPORTS EPL 4 (GAME TIMES ONLY) http://93.190.142.128:80/live/user2/user2/27902.ts
+http://93.190.142.128:80/live/user2/user2/27902.ts
+
+#EXTINF:-1,239 - BEIN-THAI 1 http://93.190.142.128:80/live/user2/user2/27901.ts
+http://93.190.142.128:80/live/user2/user2/27901.ts
+
+#EXTINF:-1,240 - BEIN-THAI 2 http://93.190.142.128:80/live/user2/user2/27900.ts
+http://93.190.142.128:80/live/user2/user2/27900.ts
+
+#EXTINF:-1,241 - BEIN-THAI 3 http://93.190.142.128:80/live/user2/user2/27899.ts
+http://93.190.142.128:80/live/user2/user2/27899.ts
+
+#EXTINF:-1,242 - OLYMPIC CHANNEL http://93.190.142.128:80/live/user2/user2/27898.ts
+http://93.190.142.128:80/live/user2/user2/27898.ts
+
+#EXTINF:-1,243 - NBC GOLF HD http://93.190.142.128:80/live/user2/user2/27897.ts
+http://93.190.142.128:80/live/user2/user2/27897.ts
+
+#EXTINF:-1,244 - C GOLF http://93.190.142.128:80/live/user2/user2/27896.ts
+http://93.190.142.128:80/live/user2/user2/27896.ts
+
+#EXTINF:-1,245 - ZIGGO-SPORTS-EXTRA 1 http://93.190.142.128:80/live/user2/user2/27895.ts
+http://93.190.142.128:80/live/user2/user2/27895.ts
+
+#EXTINF:-1,246 - ZIGGO-SPORTS-EXTRA 2 http://93.190.142.128:80/live/user2/user2/27894.ts
+http://93.190.142.128:80/live/user2/user2/27894.ts
+
+#EXTINF:-1,247 - ZIGGO-SPORTS-VOETBALL http://93.190.142.128:80/live/user2/user2/27893.ts
+http://93.190.142.128:80/live/user2/user2/27893.ts
+
+#EXTINF:-1,248 - USA NBC GOLF http://93.190.142.128:80/live/user2/user2/27892.ts
+http://93.190.142.128:80/live/user2/user2/27892.ts
+
+#EXTINF:-1,249 - CANAL SPORTS http://93.190.142.128:80/live/user2/user2/27891.ts
+http://93.190.142.128:80/live/user2/user2/27891.ts
+
+#EXTINF:-1,250 - SFR-SPORT 1 http://93.190.142.128:80/live/user2/user2/27890.ts
+http://93.190.142.128:80/live/user2/user2/27890.ts
+
+#EXTINF:-1,251 - SFR-SPORT 2 http://93.190.142.128:80/live/user2/user2/27889.ts
+http://93.190.142.128:80/live/user2/user2/27889.ts
+
+#EXTINF:-1,252 - SFR-SPORT 3 http://93.190.142.128:80/live/user2/user2/27888.ts
+http://93.190.142.128:80/live/user2/user2/27888.ts
+
+#EXTINF:-1,253 - SPORT-KLUB 1HD http://93.190.142.128:80/live/user2/user2/27887.ts
+http://93.190.142.128:80/live/user2/user2/27887.ts
+
+#EXTINF:-1,254 - SPORT-KLUB 2HD http://93.190.142.128:80/live/user2/user2/27886.ts
+http://93.190.142.128:80/live/user2/user2/27886.ts
+
+#EXTINF:-1,255 - SPORT-KLUB 3HD http://93.190.142.128:80/live/user2/user2/27885.ts
+http://93.190.142.128:80/live/user2/user2/27885.ts
+
+#EXTINF:-1,256 - SKY-NET-SPORTS 1 http://93.190.142.128:80/live/user2/user2/27884.ts
+http://93.190.142.128:80/live/user2/user2/27884.ts
+
+#EXTINF:-1,257 - SKY-NET-SPORTS 2 http://93.190.142.128:80/live/user2/user2/27883.ts
+http://93.190.142.128:80/live/user2/user2/27883.ts
+
+#EXTINF:-1,258 - SKY-NET-SPORTS 3 http://93.190.142.128:80/live/user2/user2/27882.ts
+http://93.190.142.128:80/live/user2/user2/27882.ts
+
+#EXTINF:-1,259 - SKY-NET-SPORTS 4 http://93.190.142.128:80/live/user2/user2/27881.ts
+http://93.190.142.128:80/live/user2/user2/27881.ts
+
+#EXTINF:-1,260 - SKY-NET-SPORTS 5 http://93.190.142.128:80/live/user2/user2/27880.ts
+http://93.190.142.128:80/live/user2/user2/27880.ts
+
+#EXTINF:-1,261 - SKY-NET-SPORTS 6 http://93.190.142.128:80/live/user2/user2/27879.ts
+http://93.190.142.128:80/live/user2/user2/27879.ts
+
+#EXTINF:-1,VIAJAR HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/501.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/501.ts
+
+#EXTINF:-1,TOROS TV HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/502.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/502.ts
+
+#EXTINF:-1,TNT HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/503.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/503.ts
+
+#EXTINF:-1,TELECINCO HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/505.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/505.ts
+
+#EXTINF:-1,TCM HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/507.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/507.ts
+
+#EXTINF:-1,SYFY HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/508.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/508.ts
+
+#EXTINF:-1,SUNDANCE http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/509.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/509.ts
+
+#EXTINF:-1,R. MADRID TV http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/510.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/510.ts
+
+#EXTINF:-1,PARAMOUNT http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/511.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/511.ts
+
+#EXTINF:-1,NONSTOPEOPLE http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/513.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/513.ts
+
+#EXTINF:-1,NICKELODEONHD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/514.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/514.ts
+
+#EXTINF:-1,NICK JR http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/515.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/515.ts
+
+#EXTINF:-1,NG WILD HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/516.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/516.ts
+
+#EXTINF:-1,NEOX http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/517.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/517.ts
+
+#EXTINF:-1,MULTIDEPORTE http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/520.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/520.ts
+
+#EXTINF:-1,MTV ESPA¹A http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/521.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/521.ts
+
+#EXTINF:-1,MEZZO LIVE HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/522.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/522.ts
+
+#EXTINF:-1,M.PartidazoHD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/524.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/524.ts
+
+#EXTINF:-1,M.MOTOGPHD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/525.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/525.ts
+
+#EXTINF:-1,M.FORMULA1HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/526.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/526.ts
+
+#EXTINF:-1,M.ESTRENOSHD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/527.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/527.ts
+
+#EXTINF:-1,M. XTRA HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/529.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/529.ts
+
+#EXTINF:-1,M. XTRA http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/530.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/530.ts
+
+#EXTINF:-1,M. SeriesXtraHD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/531.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/531.ts
+
+#EXTINF:-1,M. SERIES HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/532.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/532.ts
+
+#EXTINF:-1,M. MOTOGP http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/533.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/533.ts
+
+#EXTINF:-1,M. GOLF HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/534.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/534.ts
+
+#EXTINF:-1,M. F.TBOL HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/535.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/535.ts
+
+#EXTINF:-1,M. ESTRENOS http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/536.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/536.ts
+
+#EXTINF:-1,M. DEP 2 HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/538.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/538.ts
+
+#EXTINF:-1,M. DEP 1 HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/539.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/539.ts
+
+#EXTINF:-1,M. DCINE HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/540.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/540.ts
+
+#EXTINF:-1,M. Cine Espaæol http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/542.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/542.ts
+
+#EXTINF:-1,M. ACCI©N HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/543.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/543.ts
+
+#EXTINF:-1,LTC http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/544.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/544.ts
+
+#EXTINF:-1,LA SEXTA HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/545.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/545.ts
+
+#EXTINF:-1,LA 1 HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/547.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/547.ts
+
+#EXTINF:-1,HOLLYWOODHD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/549.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/549.ts
+
+#EXTINF:-1,HISTORIA http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/550.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/550.ts
+
+#EXTINF:-1,GOL http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/551.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/551.ts
+
+#EXTINF:-1,FOX NEWS http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/552.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/552.ts
+
+#EXTINF:-1,FOX HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/554.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/554.ts
+
+#EXTINF:-1,FDF http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/555.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/555.ts
+
+#EXTINF:-1,EUROSPORT1HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/556.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/556.ts
+
+#EXTINF:-1,EUROSPORT 2 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/557.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/557.ts
+
+#EXTINF:-1,ENERGY http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/558.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/558.ts
+
+#EXTINF:-1,DISNEY XD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/560.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/560.ts
+
+#EXTINF:-1,DISNEY JR http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/561.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/561.ts
+
+#EXTINF:-1,DISNEY CH HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/562.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/562.ts
+
+#EXTINF:-1,DISCOVERY http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/563.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/563.ts
+
+#EXTINF:-1,COSMO HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/566.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/566.ts
+
+#EXTINF:-1,COMEDYCENTRALHD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/567.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/567.ts
+
+#EXTINF:-1,CLASSICA http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/568.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/568.ts
+
+#EXTINF:-1,CLAN TVE http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/569.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/569.ts
+
+#EXTINF:-1,CAZAyPESCA HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/570.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/570.ts
+
+#EXTINF:-1,CANAL SUR A. http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/571.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/571.ts
+
+#EXTINF:-1,CANAL ODISEA http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/574.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/574.ts
+
+#EXTINF:-1,CANAL DECASA http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/575.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/575.ts
+
+#EXTINF:-1,CALLE 13 HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/577.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/577.ts
+
+#EXTINF:-1,BOING http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/578.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/578.ts
+
+#EXTINF:-1,BEIN SPORTS http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/579.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/579.ts
+
+#EXTINF:-1,BEIN MAX 2 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/580.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/580.ts
+
+#EXTINF:-1,BARCA TV http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/582.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/582.ts
+
+#EXTINF:-1,BABY TV http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/583.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/583.ts
+
+#EXTINF:-1,AXN WHITE HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/584.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/584.ts
+
+#EXTINF:-1,AXN HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/585.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/585.ts
+
+#EXTINF:-1,ARAGON TV http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/586.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/586.ts
+
+#EXTINF:-1,AMC HD http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/588.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/588.ts
+
+#EXTINF:-1,A&E http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/589.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/589.ts
+
+#EXTINF:-1,24 HORAS http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/590.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/590.ts
+
+#EXTINF:-1,ALQUILER_1 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/86.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/86.ts
+
+#EXTINF:-1,ALQUILER_2 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/87.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/87.ts
+
+#EXTINF:-1,ALQUILER_3 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/88.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/88.ts
+
+#EXTINF:-1,ALQUILER_4 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/89.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/89.ts
+
+#EXTINF:-1,ALQUILER_5 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/90.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/90.ts
+
+#EXTINF:-1,ALQUILER_6 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/91.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/91.ts
+
+#EXTINF:-1,ALQUILER_7 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/92.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/92.ts
+
+#EXTINF:-1,ALQUILER_8 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/93.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/93.ts
+
+#EXTINF:-1,ALQUILER_9 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/94.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/94.ts
+
+#EXTINF:-1,ALQUILER_10 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/95.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/95.ts
+
+#EXTINF:-1,ALQUILER_11 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/96.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/96.ts
+
+#EXTINF:-1,ALQUILER_12 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/97.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/97.ts
+
+#EXTINF:-1,ALQUILER_13 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/98.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/98.ts
+
+#EXTINF:-1,ALQUILER_14 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/99.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/99.ts
+
+#EXTINF:-1,ALQUILER_15 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/100.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/100.ts
+
+#EXTINF:-1,ALQUILER_16 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/101.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/101.ts
+
+#EXTINF:-1,ALQUILER_17 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/102.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/102.ts
+
+#EXTINF:-1,ALQUILER_18 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/103.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/103.ts
+
+#EXTINF:-1,ALQUILER_19 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/104.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/104.ts
+
+#EXTINF:-1,ALQUILER_20 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/105.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/105.ts
+
+#EXTINF:-1,ALQUILER_21 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/106.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/106.ts
+
+#EXTINF:-1,ALQUILER_22 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/107.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/107.ts
+
+#EXTINF:-1,ALQUILER_23 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/108.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/108.ts
+
+#EXTINF:-1,ALQUILER_24 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/109.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/109.ts
+
+#EXTINF:-1,ALQUILER_25 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/110.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/110.ts
+
+#EXTINF:-1,ALQUILER_26 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/111.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/111.ts
+
+#EXTINF:-1,ALQUILER_27 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/112.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/112.ts
+
+#EXTINF:-1,ALQUILER_28 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/113.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/113.ts
+
+#EXTINF:-1,ALQUILER_29 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/114.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/114.ts
+
+#EXTINF:-1,ALQUILER_30 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/115.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/115.ts
+
+#EXTINF:-1,ALQUILER_31 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/116.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/116.ts
+
+#EXTINF:-1,ALQUILER_32 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/117.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/117.ts
+
+#EXTINF:-1,ALQUILER_33 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/118.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/118.ts
+
+#EXTINF:-1,ALQUILER_34 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/119.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/119.ts
+
+#EXTINF:-1,ALQUILER_35 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/120.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/120.ts
+
+#EXTINF:-1,ALQUILER_36 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/121.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/121.ts
+
+#EXTINF:-1,ALQUILER_37 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/122.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/122.ts
+
+#EXTINF:-1,ALQUILER_38 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/123.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/123.ts
+
+#EXTINF:-1,ALQUILER_39 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/124.ts
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/124.ts
+
+#EXTINF:-1,ALQUILER_40 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/125.ts #EXTm3u
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/125.ts
