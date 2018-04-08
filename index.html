@@ -1,37 +1,32 @@
-<html>
 <head>
-	<link rel="apple-touch-icon" href="/iTunesArtwork@2x.png">
-<script>
+<link rel="apple-touch-icon" href="/iTunesArtwork@2x.png">
+<script type="text/rocketscript">
     var randNum = Math.floor(Math.random() * 10);
-
     if (randNum == 5)
-        window.open('http://sparksammy.com/', '_self');
+        //window.open('http://sparksammy.com/', '_self');
 </script>
 	<link rel="stylesheet" href="/style.css" />
 </head>
+
 <body>
-	<div class="wrapper">
+<div class="wrapper">
 	<div class="header">
 		<h1><img class="logo" src="https://www.sparksammy.com/logo18.png" alt="Sparksammy" border="0" width="50%" height="75%"></h1>
 	</div>
 	<div class="navigation">
-		<a href="http://sparksammy.com/donate.html">Donate</a>
-		<a href="https://shop.spreadshirt.com/sparksammy/">Buy Merch</a>
-		<a href="http://github.com/sparksammy/">Projects</a>
-		<a href="http://sparksammy.com/iptv">IPTV</a>
-		<a href="http://stallman.org/">RMS</a>
-		<a href="https://sparksammy.github.io/Blog/">Blog</a>
-		<a href="https://sparksammy.com/geo/">Geocities Site</a>
-		<a href="https://sparksammy.com/snowy-scene.html">Mountains in Snow</a>
-		<a href="https://sparksammy.com/samsploit.zip">Download SamSploit</a>
+		<a target="content-frame" href="http://sparksammy.com/donate.html">Donate</a>
+		<a target="content-frame" href="https://shop.spreadshirt.com/sparksammy/">Buy Merch</a>
+		<a target="content-frame" href="http://github.com/sparksammy/">Projects</a>
+		<a target="content-frame" href="http://sparksammy.com/iptv">IPTV</a>
+		<a target="content-frame" href="http://stallman.org/">RMS</a>
+		<a target="content-frame" href="https://sparksammy.github.io/Blog/">Blog</a>
+		<a target="content-frame"  href="https://sparksammy.com/geo/">Geocities Site</a>
+		<a target="content-frame" href="https://sparksammy.com/snowy-scene.html">Mountains in Snow</a>
+        
 	</div>
 	<div class="content" align="center">
-		<p>Welcome to Sparksammy's website</p>
-<p style="text-align: center;"><b>"Find a balance between</b> freedom, comfort, and flexibility; as there is <b>no such thing as full freedom.</b>" <b><i>--Sparksammy</i></b></p>
-	</div>
+		<iframe id="content-frame" name="content-frame" src="homepage.html" width="100%" height="100%"></iframe>
 	<div class="footer">
 		<img src="https://github.com/sparksammy/sparksammycom/blob/master/me.jpg?raw=true" id="fatdude" alt="*Dr Thunder Here*" width="5%" height="10%"> Made by Samuel Lord. This website is open source, want to <a href="https://github.com/sparksammy/sparksammycom">improve it?</a>
-	</div>
-	</div>
+    </div>
 </body>
-</html>
