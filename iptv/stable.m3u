@@ -16,21 +16,6 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1,Nick
 http://playlist.onlybest.tv/us/channel/6018265d6e7fc90bb1ef5f2c5ec81061/182/index.m3u8
 
-#EXTINF:-1,Cartoon Network
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/4377.ts
-
-#EXTINF:-1,Boomerang
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/8505.ts
-
-#EXTINF:-1,History
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/8486.ts
-
-#EXTINF:-1,Discovery
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/3363.ts
-
-#EXTINF:-1,Discovery Science
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/8485.ts
-
 #EXTINF:-1,BBC ONE
 https://ovh.easyview.eu/hls/bbc1.m3u8
 
@@ -43,95 +28,23 @@ https://ovh.easyview.eu/hls/bbc4.m3u8
 #EXTINF:-1,NBC
 http://tv.bmx-tv.top:1935/live/34.smil/playlist.m3u8
 
-#EXTINF:-1,COMEDY CENTRAL
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/1931.ts
-
 #EXTINF:-1,CBS
 http://tv.bmx-tv.top:1935/live/33.smil/playlist.m3u8
-
-#EXTINF:-1,NickToons
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/9283.ts
-
-#EXTINF:-1,SKY CINEMA ACTION
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/8098.ts
-
-#EXTINF:-1,SKY CINEMA COMEDY
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/3085.ts
-
-#EXTINF:-1,SKY CINEMA DISNEY
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/7589.ts
-
-#EXTINF:-1,SKY CINEMA DRAMA
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/270.ts
-
-#EXTINF:-1,SKY CINEMA FAMILY
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/4228.ts
-
-#EXTINF:-1,SKY CINEMA GREATS
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/3746.ts
-
-#EXTINF:-1,SKY CINEMA HITS
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/9286.ts
-
-#EXTINF:-1,SKY CINEMA PREMIER
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/4225.ts
-
-#EXTINF:-1,SKY CINEMA SCI-FI
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/4224.ts
-
-#EXTINF:-1,SKY CINEMA SELECT
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/4223.ts
-
-#EXTINF:-1,GOLF CHANNEL
-http://193.70.6.107:9876/live/ali/ali/1782.ts
-
-#EXTINF:-1,HBO
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/8315.ts
-
-#EXTINF:-1,FXX
-http://193.70.6.107:9876/live/ali/ali/1774.ts
 
 #EXTINF:-1,CHRISTIAN TELEVISION NETWORK
 http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
 
-#EXTINF:-1,AMC
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/2963.ts
-
-#EXTINF:-1,BBC World News
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/9139.ts
-
-#EXTINF:-1,BT Sports 1
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/3987.ts
-
-#EXTINF:-1,BT Sports 2
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/7632.ts
-
-#EXTINF:-1,UK Channel 4
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/3991.ts
-
-#EXTINF:-1,UK Channel 5
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/8491.ts
+#EXTINF:-1,ITV 4
+http://163.172.222.83:8100/live/sergio/sergio123/2529.ts
 
 #EXTINF:-1,The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:-1,Food Network
-http://iptv-area-51.tv:2095/live/vlombardinogmailcom/Area-51@2018.05.07/9376.ts
-
 #EXTINF:-1,Comet TV
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 
-#EXTINF:-1,BBC America
-http://vapi.vaders.tv/play/2456.m3u8?token=eyJ1c2VybmFtZSI6ImxvbWJhcmRpbm8iLCJwYXNzd29yZCI6InZpbmNlIn0=
-
 #EXTINF:-1,Bloomberg
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-
-#EXTINF:-1,CBS
-http://tv.bmx-tv.top:1935/live/33.smil/playlist.m3u8
-
-#EXTINF:-1,The CW
-http://vapi.vaders.tv/play/8198.m3u8?token=eyJ1c2VybmFtZSI6ImxvbWJhcmRpbm8iLCJwYXNzd29yZCI6InZpbmNlIn0=
 
 #EXTINF:-1,Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
