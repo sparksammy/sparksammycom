@@ -47,6 +47,9 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 #EXTINF:-1,Dog TV
 https://content-ausc3.uplynk.com/channel/e8aeaab0dc3540d5adac23f8618903e4/j.m3u8?check2?b=1b241774cc0e46779bd8c366cbd51c14&v=e8aeaab0dc3540d5adac23f8618903e4&r=e&c=e8aeaab0dc3540d5adac23f8618903e4&pbs=41b95411dfd840488e1e9dcf15c35796
 
+#EXTINF:-1,Telemundo
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
 #EXTINF:-1,Christmas Fireplace
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
 
