@@ -59,8 +59,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8
 #EXTINF:-1,Minecraft TV
 http://stitcher.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1,MST3K
-http://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,Dog TV
 https://content-ausc3.uplynk.com/channel/e8aeaab0dc3540d5adac23f8618903e4/j.m3u8?check2?b=1b241774cc0e46779bd8c366cbd51c14&v=e8aeaab0dc3540d5adac23f8618903e4&r=e&c=e8aeaab0dc3540d5adac23f8618903e4&pbs=41b95411dfd840488e1e9dcf15c35796
@@ -80,6 +78,9 @@ http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfire
 
 #EXTINF:-1,Rick and Morty
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+#EXTINF:-1,MST3K
+http://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1,The Strip Radio
 https://video.pluto.tv/dash_radio/station40/playlist.m3u8?serverSideAds=false
