@@ -4,17 +4,12 @@ https://59e4c57435027.streamlock.net:443/live/livestream/playlist.m3u8
 #EXTINF:-1,Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1,Fox
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/69/index.m3u8
-
 #EXTINF:-1,TSTV Austin
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
 #EXTINF:-1,NFL Now
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 
-#EXTINF:-1,Nick
-http://playlist.onlybest.tv/us/channel/6018265d6e7fc90bb1ef5f2c5ec81061/182/index.m3u8
 
 #EXTINF:-1,BBC ONE
 https://ovh.easyview.eu/hls/bbc1.m3u8
