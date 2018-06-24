@@ -1,9 +1,6 @@
 #EXTINF:-1,Galveston TV
 https://59e4c57435027.streamlock.net:443/live/livestream/playlist.m3u8
 
-#EXTINF:-1,Radio Swiss Jazz
-http://stream.srg-ssr.ch/m/rsj/mp3_128
-
 #EXTINF:-1,TSTV Austin
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
@@ -98,3 +95,6 @@ https://video.pluto.tv/dash_radio/station19/playlist.m3u8?serverSideAds=true
 
 #EXTINF:-1,Reggae King Radio
 https://video.pluto.tv/dash_radio/station54/playlist.m3u8?serverSideAds=true
+
+#EXTINF:-1,Radio Swiss Jazz
+http://stream.srg-ssr.ch/m/rsj/mp3_128
