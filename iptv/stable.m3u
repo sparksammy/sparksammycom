@@ -8,13 +8,13 @@ http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 
 
-#EXTINF:-1,BBC ONE
+#EXTINF:-1,BBC ONE (UK IPs ONLY)
 https://ovh.easyview.eu/hls/bbc1.m3u8
 
-#EXTINF:-1,BBC TWO
+#EXTINF:-1,BBC TWO (UK IPs ONLY)
 https://ovh.easyview.eu/hls/bbc2.m3u8
 
-#EXTINF:-1,BBC FOUR
+#EXTINF:-1,BBC FOUR (UK IPs ONLY)
 https://ovh.easyview.eu/hls/bbc4.m3u8
 
 #EXTINF:-1,NBC
@@ -41,15 +41,6 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 #EXTINF:-1,Dog TV
 https://content-ausc3.uplynk.com/channel/e8aeaab0dc3540d5adac23f8618903e4/j.m3u8?check2?b=1b241774cc0e46779bd8c366cbd51c14&v=e8aeaab0dc3540d5adac23f8618903e4&r=e&c=e8aeaab0dc3540d5adac23f8618903e4&pbs=41b95411dfd840488e1e9dcf15c35796
 
-#EXTINF:-1,Telemundo
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-
-#EXTINF:-1,Pluto Movies
-http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/3063648/playlist.m3u8?terminate=false&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceType=web&deviceMake=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&serverSideAds=true
-
-#EXTINF:-1,Pluto Classic Movies
-http://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/3063648/playlist.m3u8?terminate=false&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceType=web&deviceMake=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&serverSideAds=true
-
 #EXTINF:-1,RT America
 https://secure-streams.akamaized.net/rt-usa/index.m3u8?serverSideAds=true
 
@@ -62,9 +53,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8
 
 #EXTINF:-1,Dog TV
 https://content-ausc3.uplynk.com/channel/e8aeaab0dc3540d5adac23f8618903e4/j.m3u8?check2?b=1b241774cc0e46779bd8c366cbd51c14&v=e8aeaab0dc3540d5adac23f8618903e4&r=e&c=e8aeaab0dc3540d5adac23f8618903e4&pbs=41b95411dfd840488e1e9dcf15c35796
-
-#EXTINF:-1,NASA TV
-http://stitcher.pluto.tv/proxy/f0022bc0-7760-11e8-aa77-3d19906ed573/54ee5ea872c1cbb844546d3f/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true&startingOffset=0
 
 #EXTINF:-1,4K TV Showcase
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=f0022bc0-7760-11e8-aa77-3d19906ed573&deviceId=f00204b0-7760-11e8-aa77-3d19906ed573&deviceVersion=60.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=true
