@@ -1,2 +1,2 @@
 # sparksammycom
-The Sparksammy Web Content Delevery Network (wCDN for short)
+The Sparksammy Web Content Delevery Network (swCDN for short)
