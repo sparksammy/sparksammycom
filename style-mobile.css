@@ -1,0 +1,55 @@
+.header{
+
+	font-family: 'Oswald', sans-serif;
+
+	height:25%;
+
+	background:#424242;
+
+	padding:1%;
+
+	text-align:center;
+
+}
+
+.navigation a{
+
+	background-color: #021d7c;
+
+	color: white;
+
+	margin-bottom: 7px;
+
+	border-radius: 2em;
+
+	text-decoration: none;
+
+	display: inline-block;
+
+	padding: .95%;
+
+}
+
+header {
+
+    text-align:center;
+
+}
+
+
+
+body {
+
+    background-color:black;
+
+    color:lime;
+
+}
+
+
+
+a {
+
+    color:green;
+
+}
