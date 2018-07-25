@@ -16,7 +16,7 @@
 
 .navigation {
 
-    background-color: #003f03;
+    background-color: #000000;
 
     overflow: hidden;
 
@@ -32,7 +32,7 @@
 
     float: left;
 
-    color: #3a3a3a;
+    color: #0e9100;
 
     text-align: center;
 
@@ -60,7 +60,7 @@
 
 .navigation a:hover {
 
-    background-color: #ddd;
+    background-color: #053a00;
 
     color: black;
 
