@@ -14,9 +14,9 @@
 
 /* Add a black background color to the top navigation */
 
-#TOC {
+.navigation {
 
-    background-color: #333;
+    background-color: #003f03;
 
     overflow: hidden;
 
