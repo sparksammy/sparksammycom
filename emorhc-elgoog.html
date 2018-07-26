@@ -1,0 +1,34 @@
+<head>
+    <title>emorhC elgooG</title>
+    <style>#flipdiv {
+            align:center;
+              width: 100%;
+              height: 100%;
+              -webkit-transform:rotateY(180deg);
+              -moz-transform:rotateY(180deg);
+              -o-transform:rotateY(180deg);
+              -ms-transform:rotateY(180deg);
+              unicode-bidi:bidi-override;
+              direction:rtl;
+            }</style>
+    <script type="text/javascript">
+        window.onload = scrollDownToTheTop;
+        function setBrowserFrameSource() {
+        var browserFrame = document.getElementById("reverse-browser");
+        browserFrame.src= document.getElementById("txtUrl").value;
+        window.scrollTo(0, document.body.scrollHeight);
+        }
+        </script>
+</head>
+
+<body>
+    <h3>emorhC elgooG</h3>
+    <form method="post" target="reverse-browser">
+            <input id="txtUrl" style="width:82%;" placeholder="Put the website here" name="url" type="text" />
+            <input style="width:8%;" type="button" value="Go" onclick="setBrowserFrameSource(); return false;"/>
+    </form>
+    <div id="flipdiv">
+        <iframe id="reverse-browser" width="100%" height="100%" src="http://sparksammy.com"></iframe>
+    </div>
+    <p>Made with love by Sparksammy.</p>
+</body>
