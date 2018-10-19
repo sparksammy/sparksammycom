@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Bitter|Montserrat|Oswald');
 .wrapper{
-	width:69%;
-	min-height:85%;
-	height:85%;
+	width:100%;
+	min-height:100%;
+	height:100%;
 	margin:0 auto;
 }
 .header{
