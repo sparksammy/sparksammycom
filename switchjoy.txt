@@ -1,0 +1,1 @@
+SwitchJoy test success! nothing is wrong with the readInternetText funciton!!! HA HA!

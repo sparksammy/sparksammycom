@@ -1,0 +1,36 @@
+<p id="hello"></p>
+<button onclick="Hi()">Try</button>
+<script src="switchjoy.js"></script>
+<script>
+var Negative = [
+    "Oh no! You've unlocked... nothing...",
+    "I am good at secrets, don't bother trying...",
+    "Is that all you got?",
+    "You won't be able to defeat me",
+    "Keep trying, it only makes me stronger",
+    "I won't tell you.",
+    "I do not care if you annoy me, I won't tell you.",
+    "Are you going to stay here all day?",
+    "I am not annoyed, I get thousands of people like you who try to open this door but never know the secret...",
+    "Open sesame doesn't work here, we've patched it.",
+    "What? Keep trying? what a waste of time...",
+    "There are so many other things you could be doings instead of trying to get me to open the door...",
+    "Go home...",
+    "Go do something else...",
+    "Go away...",
+    "I am sure there are a few online games where you annoy people, you can go there if you want...",
+    "Stop that...",
+    "Will you stop if I ask politely? No? ok...",
+    "Hmmm...",
+    "Nope...",
+    "NO",
+    "No, No, No.",
+    "No, leave me alone...",
+    "stop that! you're wasting your time..."
+]
+
+function Hi(){
+  var ngt = RandomSelectArray(Negative)
+  document.getElementById("hello").innerHTML = ngt.ToString();
+}
+</script>

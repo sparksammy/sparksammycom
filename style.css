@@ -1,58 +1,71 @@
-@import url('https://fonts.googleapis.com/css?family=Bitter|Montserrat|Oswald');
-.wrapper{
-	width:100%;
-	min-height:100%;
-	height:100%;
-	margin:0 auto;
+body {
+  font-family: 'Tomorrow', sans-serif;
+  background: black;
+  color: limegreen;
+  font-size: 1.7vw;
 }
-.header{
-	font-family: 'Oswald', sans-serif;
-	height:25%;
-	background:#424242;
-	padding:1%;
-	text-align:center;
+
+div,p,h1,h2,h3,h4,h5,h6{
+  color: lime;
 }
-.navigation{
-	text-align:center;
-	font-family: 'Montserrat', sans-serif;
-	background:#282626;
+
+
+
+h1 {
+  font-size: 3vw;
 }
-.content{
-	min-height:45%;
-	background:#efefef;
-	width:100%;
-	float:left;
+
+h2{
+  font-size: 2.8vw;
 }
-.home-content{
-	min-height:100%;
-	background:#1e1d1d;
-	width:100%;
-	float:left;
+
+h3 {
+  font-size: 2.4vw;
 }
-.footer{
-	clear:both;
-	background-color:#121212;
-	text-align:center;
-	padding:10px;
+
+h4 {
+  font-size: 2.1vw;
 }
-.navigation a{
-	background-color: #021d7c;
-	color: white;
-	margin-bottom: 4px;
-	border-radius: 1em;
-	text-decoration: none;
-	display: inline-block;
-	padding: .75%;
+
+h5 {
+  font-size: 2vw;
+  font-style: oblique;
 }
-a{
-	color:lime;
+
+h6 {
+  font-size: 1.8vw;
+  font-style: oblique;
 }
-img{
-display:block;
-margin: 0 auto;
+
+a {
+  font-size: 2vw;
 }
-body{
-	font-family: 'Bitter', sans-serif;
-	background-color:#050505;
-	color:white;
+
+a:link {
+  color: lime;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(122, 243, 152);
+}
+
+/* selected link */
+a:active {
+  color: rgb(22, 153, 33);
+}
+
+#quote{
+  font-size: 110%;
+  color: lime;
+  font-family: 'Supermercado One', cursive;
+}
+
+#secret{
+  color: #0e0e0e;
 }
